@@ -2,86 +2,97 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Concessions Guide</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-
-  <!-- Fonts -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-
-  <link rel="stylesheet" href="styles.css" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no"/>
+  <meta name="theme-color" content="#F8F9F9"/>
+  <title>Concessions — Concerto</title>
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,700;1,400;1,500&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,600&display=swap" rel="stylesheet"/>
+  
+  <link rel="stylesheet" href="./styles.css" />
 </head>
+
 <body>
-  <div class="page">
-    <header class="page-header">
-      <div class="page-header-inner">
-        <img
-          src="IMG_3180.jpeg"
-          alt="Concessions"
-          class="brand-logo"
-        />
-        <div class="search-wrapper">
+  <div id="app">
+    <div class="topbar">
+      <div class="topbar-logo">
+        <span class="topbar-logo-word">CONCERTO - CONCESSIONS</span>
+        <span class="topbar-logo-sub">A Premium Experience</span>
+      </div>
+      <div class="topbar-right"></div>
+    </div>
+
+    <main class="scroll-area active" id="s-home">
+      
+      <section class="hero">
+        <div class="eyebrow">Eat & Drink.</div>
+        <h1 class="headline">Plan your night.<br><em>Skip the lines.</em></h1>
+        <p class="sub">Search a venue to explore concessions, notable stands, and official maps.</p>
+
+        <div class="dropdown-wrap search-row">
           <input
             id="venueSearch"
-            type="text"
-            placeholder="Search a venue..."
+            class="light-input"
+            type="search"
+            placeholder="Search venues..."
             autocomplete="off"
           />
-          <div id="searchResults" class="search-results"></div>
+          <div id="searchResults" class="dropdown-list search-results"></div>
         </div>
-      </div>
-    </header>
+      </section>
 
-    <main class="layout">
       <section id="infoPanel" class="info-panel info-panel--empty">
-        <!-- Static title + description -->
-        <div class="info-empty">
-          <h2>Explore Concessions Before the Show</h2>
-          <p>
-            Use the search bar above to find a venue. You’ll see notes on concessions,
-            any highlighted stands, and a link to the full concessions map or guide.
-          </p>
+        
+        <div class="info-empty explainer-card" style="flex-direction: column; gap: 4px;">
+          <div class="explainer-text">
+            <div class="et-title">Explore Before The Show</div>
+            <div class="et-sub">Use the search bar above to find a venue. You’ll see notes on concessions, highlighted stands, and a direct link to the full official guide.</div>
+          </div>
         </div>
 
-        <!-- Venue content (hidden until a venue is chosen) -->
         <div class="info-content" hidden>
-          <header class="info-header">
-            <div>
-              <h2 id="venueName"></h2>
-              <p id="venueLocation" class="venue-location"></p>
+
+          <header class="bag-id-card info-header" style="margin-bottom: 14px; flex-direction: column; align-items: flex-start; gap: 4px; padding: 18px 20px;">
+            <div class="bag-id-info">
+              <h2 id="venueName" class="bi-type" style="font-style: normal; font-weight: 700; font-size: 22px; margin: 0;"></h2>
+              <p id="venueLocation" class="bi-dims venue-location" style="margin: 4px 0 0; font-size: 13px;"></p>
             </div>
           </header>
 
           <div class="info-cards">
-            <!-- Overview -->
-            <article class="info-card">
-              <h3>Concessions Overview</h3>
-              <p id="concessionsNote" class="card-body"></p>
+            
+            <article class="policy-card info-card">
+              <div class="policy-card-header section-head" style="margin-bottom: 6px;">
+                <div class="policy-card-title section-title" style="font-size: 14px; letter-spacing: .02em; text-transform: uppercase;">Concessions Overview</div>
+              </div>
+              <div class="section-body">
+                <p id="concessionsNote" class="card-body" style="font-size: 13px; color: var(--ink-2); line-height: 1.6; margin: 0;"></p>
+              </div>
             </article>
 
-            <!-- Stands list -->
-            <article class="info-card" id="standsCard" hidden>
-              <h3>Notable Stands</h3>
-              <ul id="standsList" class="bullet-list"></ul>
+            <article class="policy-card info-card" id="standsCard" hidden>
+              <div class="policy-card-header section-head" style="margin-bottom: 8px;">
+                <div class="policy-card-title section-title" style="font-size: 14px; letter-spacing: .02em; text-transform: uppercase;">Notable Stands</div>
+              </div>
+              <div class="section-body">
+                <ul id="standsList" class="bullet-list"></ul>
+              </div>
             </article>
 
-            <!-- Official link -->
-            <article class="info-card" id="officialCard" hidden>
-              <h3>Full Concessions Map</h3>
-              <p class="card-body">
-                For the latest locations and offerings, check the venue’s official concessions page.
-              </p>
+            <article class="info-card" id="officialCard" hidden style="margin-top: 10px;">
               <a
                 id="concessionsLink"
-                class="primary-btn"
+                class="action-btn ghost"
                 href="#"
                 target="_blank"
                 rel="noopener noreferrer"
+                style="display: block; text-decoration: none;"
               >
-                View Concessions Info
+                View Official Concessions Guide →
               </a>
             </article>
+
           </div>
         </div>
       </section>
