@@ -17,14 +17,14 @@ const standsListEl = document.getElementById("standsList");
 const officialCardEl = document.getElementById("officialCard");
 const concessionsLinkEl = document.getElementById("concessionsLink");
 
-// Fetch JSON on load
+// Fetch JSON on load (Using absolute path)
 fetch("/data/concessions.json")
   .then((res) => res.json())
   .then((data) => {
     concessionsData = data || {};
     venuesList = buildVenuesList(concessionsData);
     renderBrowseList();   // no-op if browseListEl missing
-    handleDeepLink();     // support ?venue=slug
+    handleDeepLink();     // support clean URLs, hashes, and ?venue=slug
   })
   .catch((err) => {
     console.error("Error loading concessions.json", err);
@@ -190,17 +190,45 @@ function showVenue(slug) {
     concessionsLinkEl.href = "#";
     officialCardEl.hidden = true;
   }
+
+  // --- THE MAGIC LINK UPDATER ---
+  const cleanUrl = slug.replace(/_/g, '');
+  window.history.replaceState({}, '', '#' + cleanUrl);
 }
 
-// Deep-link: /concessions/?venue=sofi_stadium
+// Deep-link / Magic Link Checker
 function handleDeepLink() {
   const params = new URLSearchParams(window.location.search);
-  const slug = params.get("venue");
-  if (!slug || !concessionsData[slug]) return;
+  const incomingQuery = params.get("venue");
 
-  const meta = venuesList.find((v) => v.slug === slug);
-  if (meta && searchInput) {
-    searchInput.value = meta.displayName;
+  const hashPath = window.location.hash.replace(/^#\/?/, '').toLowerCase(); 
+  const urlPath = window.location.pathname.replace(/^\/|\/$/g, '').toLowerCase(); 
+
+  let targetSlug = null;
+
+  // 1. Check for old ?venue= queries
+  if (incomingQuery && concessionsData[incomingQuery]) {
+    targetSlug = incomingQuery;
+  } else {
+    // 2. Check for clean URLs
+    const searchString = (hashPath || urlPath).replace(/[^a-z0-9]/g, '');
+    
+    if (searchString && searchString !== 'indexhtml') {
+      const match = venuesList.find(v => {
+        const cleanSlug = v.slug.replace(/[^a-z0-9]/g, '');
+        const cleanName = v.displayName.toLowerCase().replace(/[^a-z0-9]/g, '');
+        return cleanSlug === searchString || cleanName === searchString;
+      });
+      if (match) targetSlug = match.slug;
+    }
   }
-  showVenue(slug);
+
+  // 3. Trigger UI
+  if (targetSlug) {
+    const meta = venuesList.find((v) => v.slug === targetSlug);
+    if (meta && searchInput) {
+      searchInput.value = meta.displayName;
+    }
+    showVenue(targetSlug);
+  }
 }
