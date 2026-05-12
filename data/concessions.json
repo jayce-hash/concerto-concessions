@@ -6,7 +6,8 @@
     "officialConcessionsUrl": "https://3arena.ie/private-members-clubs",
     "city": "Dublin",
     "state": "",
-    "venueName": "3Arena"
+    "venueName": "3Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/3arena"
   },
   "713_music_hall": {
     "updated": "",
@@ -15,24 +16,26 @@
     "officialConcessionsUrl": "https://www.713musichall.com/upgrades",
     "city": "Houston",
     "state": "TX",
-    "venueName": "713 Music Hall"
+    "venueName": "713 Music Hall",
+    "guideUrl": "https://concerto-concessions.netlify.app/713musichall"
   },
   "accor_arena": {
     "updated": "",
-    "note": "Accor Arena offers a variety of food and drink options, including juicy burgers, New York-style hot dogs, and Italian pizza. Vegetarian and vegan options are available at all stands, and visitors can enjoy drinks at the Mo\u00ebt & Chandon, Heineken, and Coca-Cola bars.",
+    "note": "Accor Arena offers a variety of food and drink options, including juicy burgers, New York-style hot dogs, and Italian pizza. Vegetarian and vegan options are available at all stands, and visitors can enjoy drinks at the Moët & Chandon, Heineken, and Coca-Cola bars.",
     "stands": [
       "Burger Bar",
       "Hot-Dog Factory",
       "Con Amore",
       "Toast Machine",
-      "Mo\u00ebt & Chandon Bar",
+      "Moët & Chandon Bar",
       "Heineken Bar",
       "Coca-Cola Bar"
     ],
     "officialConcessionsUrl": "https://www.accorarena.com/en/plan-your-visit/food",
     "city": "Paris",
     "state": "",
-    "venueName": "Accor Arena"
+    "venueName": "Accor Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/accorarena"
   },
   "acl_live_at_the_moody_theater": {
     "updated": "",
@@ -41,7 +44,8 @@
     "officialConcessionsUrl": "https://www.acllive.com/plan-your-visit/frequently-asked-questions",
     "city": "Austin",
     "state": "TX",
-    "venueName": "ACL Live at The Moody Theater"
+    "venueName": "ACL Live at The Moody Theater",
+    "guideUrl": "https://concerto-concessions.netlify.app/aclliveatthemoodytheater"
   },
   "acrisure_arena_at_greater_palm_springs": {
     "updated": "",
@@ -50,7 +54,8 @@
     "officialConcessionsUrl": "https://www.jenontherun.com/acrisure-arena-greater-palm-springs-guide/",
     "city": "Palm Desert",
     "state": "CA",
-    "venueName": "Acrisure Arena at Greater Palm Springs"
+    "venueName": "Acrisure Arena at Greater Palm Springs",
+    "guideUrl": "https://concerto-concessions.netlify.app/acrisurearenaatgreaterpalmsprings"
   },
   "acrisure_stadium": {
     "updated": "",
@@ -62,7 +67,8 @@
     "officialConcessionsUrl": "https://acrisurestadium.com/stadium/food-and-beverage/",
     "city": "Pittsburgh",
     "state": "PA",
-    "venueName": "Acrisure Stadium"
+    "venueName": "Acrisure Stadium",
+    "guideUrl": "https://concerto-concessions.netlify.app/acrisurestadium"
   },
   "addition_financial_arena": {
     "updated": "",
@@ -79,7 +85,8 @@
     "officialConcessionsUrl": "https://www.additionfiarena.com/plan-your-visit/food-beverage",
     "city": "Orlando",
     "state": "FL",
-    "venueName": "Addition Financial Arena"
+    "venueName": "Addition Financial Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/additionfinancialarena"
   },
   "alamodome": {
     "updated": "",
@@ -88,7 +95,8 @@
     "officialConcessionsUrl": "https://www.alamodome.com/plan-your-visit/food-beverage",
     "city": "San Antonio",
     "state": "TX",
-    "venueName": "Alamodome"
+    "venueName": "Alamodome",
+    "guideUrl": "https://concerto-concessions.netlify.app/alamodome"
   },
   "albertsons_stadium": {
     "updated": "2024-09-16",
@@ -104,7 +112,8 @@
     "officialConcessionsUrl": "https://broncosports.com/news/2024/9/16/general-bronco-athletics-announces-menu-items-available-at-albertsons-stadium",
     "city": "Boise",
     "state": "ID",
-    "venueName": "Albertsons Stadium"
+    "venueName": "Albertsons Stadium",
+    "guideUrl": "https://concerto-concessions.netlify.app/albertsonsstadium"
   },
   "allegiant_stadium": {
     "updated": "",
@@ -120,7 +129,8 @@
     "officialConcessionsUrl": "https://www.allegiantstadium.com/silver-black-hospitality/food-beverage-menu-guide",
     "city": "Las Vegas",
     "state": "NV",
-    "venueName": "Allegiant Stadium"
+    "venueName": "Allegiant Stadium",
+    "guideUrl": "https://concerto-concessions.netlify.app/allegiantstadium"
   },
   "allas_live": {
     "updated": "",
@@ -133,20 +143,22 @@
     "officialConcessionsUrl": "https://www.allaspool.fi/en/restaurants/allas-restaurants/",
     "city": "Helsinki",
     "state": "",
-    "venueName": "Allas Live"
+    "venueName": "Allas Live",
+    "guideUrl": "https://concerto-concessions.netlify.app/allaslive"
   },
   "amerant_bank_arena": {
     "updated": "",
-    "note": "Amerant Bank Arena offers a diverse menu of premier concessions available during Florida Panthers hockey games, concerts, and events. Highlights include the Funky Buddha Brewery Tap Room, Jameson Crossbar, and Patr\u00f3n Patio, providing a range of drink options and social spaces.",
+    "note": "Amerant Bank Arena offers a diverse menu of premier concessions available during Florida Panthers hockey games, concerts, and events. Highlights include the Funky Buddha Brewery Tap Room, Jameson Crossbar, and Patrón Patio, providing a range of drink options and social spaces.",
     "stands": [
       "Funky Buddha Brewery Tap Room",
       "Jameson Crossbar",
-      "Patr\u00f3n Patio"
+      "Patrón Patio"
     ],
     "officialConcessionsUrl": "https://www.amerantbankarena.com/plan-your-visit/dine-with-us",
     "city": "Sunrise",
     "state": "FL",
-    "venueName": "Amerant Bank Arena"
+    "venueName": "Amerant Bank Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/amerantbankarena"
   },
   "american_airlines_center": {
     "updated": "",
@@ -165,23 +177,25 @@
     "officialConcessionsUrl": "https://www.americanairlinescenter.com/food-beverage/concessions",
     "city": "Dallas",
     "state": "TX",
-    "venueName": "American Airlines Center"
+    "venueName": "American Airlines Center",
+    "guideUrl": "https://concerto-concessions.netlify.app/americanairlinescenter"
   },
   "american_family_insurance_amphitheater": {
     "updated": "",
     "note": "The American Family Insurance Amphitheater offers a variety of local food options including BBQ sandwiches, bratwurst, nachos, and pretzels. Beverage options include a wide range of MolsonCoors products, non-alcoholic drinks, spirits, wine, and specialty cocktails.",
     "stands": [
-      "Saz\u2019s BBQ",
+      "Saz’s BBQ",
       "Pizza Man",
-      "Fazio\u2019s Popcorn Wagons",
+      "Fazio’s Popcorn Wagons",
       "Bobalou Pretzels and Frozen Lemonade",
-      "Sil\u2019s Mini Donuts",
+      "Sil’s Mini Donuts",
       "Chubby's Cheesesteaks"
     ],
     "officialConcessionsUrl": "https://www.amfamamp.com/plan-your-visit/food-and-beverages",
     "city": "Milwaukee",
     "state": "WI",
-    "venueName": "American Family Insurance Amphitheater"
+    "venueName": "American Family Insurance Amphitheater",
+    "guideUrl": "https://concerto-concessions.netlify.app/americanfamilyinsuranceamphitheater"
   },
   "american_family_field": {
     "updated": "",
@@ -196,7 +210,8 @@
     "officialConcessionsUrl": "https://www.mlb.com/athletics/ballpark/food-and-beverage",
     "city": "Milwaukee",
     "state": "WI",
-    "venueName": "American Family Field"
+    "venueName": "American Family Field",
+    "guideUrl": "https://concerto-concessions.netlify.app/americanfamilyfield"
   },
   "amalie_arena": {
     "updated": "",
@@ -216,7 +231,8 @@
     "officialConcessionsUrl": "https://www.benchmarkintlarena.com/plan-your-visit/arena-dining",
     "city": "Tampa",
     "state": "FL",
-    "venueName": "Amalie Arena"
+    "venueName": "Amalie Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/amaliearena"
   },
   "amica_mutual_pavilion": {
     "updated": "",
@@ -229,18 +245,20 @@
     "officialConcessionsUrl": "https://www.amicamutualpavilion.com/premium-experiences/dining-and-concessions",
     "city": "Providence",
     "state": "RI",
-    "venueName": "Amica Mutual Pavilion"
+    "venueName": "Amica Mutual Pavilion",
+    "guideUrl": "https://concerto-concessions.netlify.app/amicamutualpavilion"
   },
   "anfiteatro_degli_scavi": {
     "updated": "",
-    "note": "Visitors can enjoy a variety of local and seasonal products at the 'Pizza, Pasta & More' self-service restaurant managed by CIRFOOD. The venue offers a Caf\u00e9 & Wine Bar with charcuterie, wines, cheeses, and traditional pastries, enhancing the visitor experience with quality and local flavors.",
+    "note": "Visitors can enjoy a variety of local and seasonal products at the 'Pizza, Pasta & More' self-service restaurant managed by CIRFOOD. The venue offers a Café & Wine Bar with charcuterie, wines, cheeses, and traditional pastries, enhancing the visitor experience with quality and local flavors.",
     "stands": [
       "Pizza, Pasta & More"
     ],
     "officialConcessionsUrl": "https://pompeiisites.org/en/visiting-info/visitor-services/",
     "city": "Pompei",
     "state": "",
-    "venueName": "Anfiteatro degli Scavi"
+    "venueName": "Anfiteatro degli Scavi",
+    "guideUrl": "https://concerto-concessions.netlify.app/anfiteatrodegliscavi"
   },
   "angel_stadium": {
     "updated": "",
@@ -255,7 +273,8 @@
     "officialConcessionsUrl": "https://www.mlb.com/athletics/ballpark/food-and-beverage",
     "city": "Anaheim",
     "state": "CA",
-    "venueName": "Angel Stadium"
+    "venueName": "Angel Stadium",
+    "guideUrl": "https://concerto-concessions.netlify.app/angelstadium"
   },
   "ao_arena": {
     "updated": "",
@@ -264,7 +283,8 @@
     "officialConcessionsUrl": "https://www.ao-arena.com/assets/doc/AO-Arena-Accessibility-Guide21.1-8839a15019.pdf",
     "city": "Manchester",
     "state": "",
-    "venueName": "AO Arena"
+    "venueName": "AO Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/aoarena"
   },
   "arizona_financial_theatre": {
     "updated": "",
@@ -273,7 +293,8 @@
     "officialConcessionsUrl": "https://www.arizonafinancialtheatre.com/private-events",
     "city": "Phoenix",
     "state": "AZ",
-    "venueName": "Arizona Financial Theatre"
+    "venueName": "Arizona Financial Theatre",
+    "guideUrl": "https://concerto-concessions.netlify.app/arizonafinancialtheatre"
   },
   "att_stadium": {
     "updated": "",
@@ -282,7 +303,8 @@
     "officialConcessionsUrl": "https://attstadium.com/stadium-info/a-to-z-guide/",
     "city": "Arlington",
     "state": "TX",
-    "venueName": "AT&T Stadium"
+    "venueName": "AT&T Stadium",
+    "guideUrl": "https://concerto-concessions.netlify.app/attstadium"
   },
   "bmo_pavilion": {
     "updated": "",
@@ -291,7 +313,8 @@
     "officialConcessionsUrl": "https://www.bmopavilion.com/plan-your-visit/bmo-harris-pavilion-faq",
     "city": "Milwaukee",
     "state": "WI",
-    "venueName": "BMO Pavilion"
+    "venueName": "BMO Pavilion",
+    "guideUrl": "https://concerto-concessions.netlify.app/bmopavilion"
   },
   "ball_arena": {
     "updated": "",
@@ -303,12 +326,13 @@
       "Breckenridge Brewery Libation Station",
       "Chillville Frozen Libation Station",
       "Cluck Shack Chicken",
-      "C\u00f3digo Lounge"
+      "Código Lounge"
     ],
     "officialConcessionsUrl": "https://www.ballarena.com/food-drink/concessions/",
     "city": "Denver",
     "state": "CO",
-    "venueName": "Ball Arena"
+    "venueName": "Ball Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/ballarena"
   },
   "bank_of_america_stadium": {
     "updated": "",
@@ -317,7 +341,8 @@
     "officialConcessionsUrl": "https://www.bankofamericastadium.com/stadium/boastadiumpolicies.html",
     "city": "Charlotte",
     "state": "NC",
-    "venueName": "Bank of America Stadium"
+    "venueName": "Bank of America Stadium",
+    "guideUrl": "https://concerto-concessions.netlify.app/bankofamericastadium"
   },
   "barclays_center": {
     "updated": "",
@@ -326,7 +351,8 @@
     "officialConcessionsUrl": "https://www.barclayscenter.com/center-info/food-beverage",
     "city": "Brooklyn",
     "state": "NY",
-    "venueName": "Barclays Center"
+    "venueName": "Barclays Center",
+    "guideUrl": "https://concerto-concessions.netlify.app/barclayscenter"
   },
   "barclays_arena": {
     "updated": "",
@@ -335,7 +361,8 @@
     "officialConcessionsUrl": "https://www.barclays-arena.de/business-und-hospitality/hospitality-bereiche",
     "city": "Hamburg",
     "state": "",
-    "venueName": "Barclays Arena"
+    "venueName": "Barclays Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/barclaysarena"
   },
   "bc_place": {
     "updated": "",
@@ -344,7 +371,8 @@
     "officialConcessionsUrl": "https://www.bcplace.com/faqs/",
     "city": "Vancouver",
     "state": "BC",
-    "venueName": "BC Place"
+    "venueName": "BC Place",
+    "guideUrl": "https://concerto-concessions.netlify.app/bcplace"
   },
   "bell_centre": {
     "updated": "",
@@ -353,7 +381,8 @@
     "officialConcessionsUrl": "https://centrebell.ca/en/food-and-beverage/quick-serve-counters",
     "city": "Montreal",
     "state": "QC",
-    "venueName": "Bell Centre"
+    "venueName": "Bell Centre",
+    "guideUrl": "https://concerto-concessions.netlify.app/bellcentre"
   },
   "bellco_theatre": {
     "updated": "",
@@ -362,7 +391,8 @@
     "officialConcessionsUrl": "https://bellcotheatre.com/general-info/seating-chart",
     "city": "Denver",
     "state": "CO",
-    "venueName": "Bellco Theatre"
+    "venueName": "Bellco Theatre",
+    "guideUrl": "https://concerto-concessions.netlify.app/bellcotheatre"
   },
   "benchmark_international_arena": {
     "updated": "",
@@ -383,13 +413,14 @@
     "officialConcessionsUrl": "https://www.benchmarkintlarena.com/plan-your-visit/arena-dining",
     "city": "Tampa",
     "state": "FL",
-    "venueName": "Benchmark International Arena"
+    "venueName": "Benchmark International Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/benchmarkinternationalarena"
   },
   "bethel_woods_center_for_the_arts": {
     "updated": "",
-    "note": "Bethel Woods Center for the Arts offers a diverse range of food and drink options, including vegetarian, vegan, and gluten-free choices. Highlights include Yasgur's Farm Caf\u00e9 for salads and wraps, Market Sheds for Italian fun food, and various stands offering everything from BBQ to tacos and cupcakes.",
+    "note": "Bethel Woods Center for the Arts offers a diverse range of food and drink options, including vegetarian, vegan, and gluten-free choices. Highlights include Yasgur's Farm Café for salads and wraps, Market Sheds for Italian fun food, and various stands offering everything from BBQ to tacos and cupcakes.",
     "stands": [
-      "Yasgur's Farm Caf\u00e9",
+      "Yasgur's Farm Café",
       "Market Sheds - Green Room",
       "Coffee Trailer",
       "Festival Plaza Concessions",
@@ -398,13 +429,13 @@
       "Knish Knosh",
       "Handsome Devil BBQ",
       "East Coast Tacos",
-      "Luigi\u2019s",
-      "Nikki C\u2019s",
-      "Eddie\u2019s Pickles",
+      "Luigi’s",
+      "Nikki C’s",
+      "Eddie’s Pickles",
       "Whipped Cupcakes",
       "Lemon Love",
-      "What\u2019s Poppin",
-      "Rockin\u2019 Hot Chicken",
+      "What’s Poppin",
+      "Rockin’ Hot Chicken",
       "Ice Cream Stand",
       "Whipped Cupcakes Trailer",
       "House Right Concessions",
@@ -415,7 +446,8 @@
     "officialConcessionsUrl": "https://www.bethelwoodscenter.org/visit/pavilion-food-map",
     "city": "Bethel",
     "state": "NY",
-    "venueName": "Bethel Woods Center for the Arts"
+    "venueName": "Bethel Woods Center for the Arts",
+    "guideUrl": "https://concerto-concessions.netlify.app/bethelwoodscenterforthearts"
   },
   "bill_graham_civic_auditorium": {
     "updated": "",
@@ -424,7 +456,8 @@
     "officialConcessionsUrl": "https://billgrahamcivic.com/",
     "city": "San Francisco",
     "state": "CA",
-    "venueName": "Bill Graham Civic Auditorium"
+    "venueName": "Bill Graham Civic Auditorium",
+    "guideUrl": "https://concerto-concessions.netlify.app/billgrahamcivicauditorium"
   },
   "bjcc_arena": {
     "updated": "",
@@ -433,7 +466,8 @@
     "officialConcessionsUrl": "https://www.bjcc.org/plan-your-visit/faqs/",
     "city": "Birmingham",
     "state": "AL",
-    "venueName": "BJCC Arena"
+    "venueName": "BJCC Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/bjccarena"
   },
   "blue_cross_arena": {
     "updated": "",
@@ -442,7 +476,8 @@
     "officialConcessionsUrl": "https://www.bluecrossarena.com/p/general-info/arena-guide",
     "city": "Rochester",
     "state": "NY",
-    "venueName": "Blue Cross Arena"
+    "venueName": "Blue Cross Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/bluecrossarena"
   },
   "bobby_dodd_stadium_at_hyundai_field": {
     "updated": "",
@@ -451,7 +486,8 @@
     "officialConcessionsUrl": "https://www.bobbydoddstadiumga.com/",
     "city": "Atlanta",
     "state": "GA",
-    "venueName": "Bobby Dodd Stadium at Hyundai Field"
+    "venueName": "Bobby Dodd Stadium at Hyundai Field",
+    "guideUrl": "https://concerto-concessions.netlify.app/bobbydoddstadiumathyundaifield"
   },
   "bok_center": {
     "updated": "",
@@ -473,7 +509,8 @@
     "officialConcessionsUrl": "https://www.bokcenter.com/plan-your-visit/food-beverage",
     "city": "Tulsa",
     "state": "OK",
-    "venueName": "BOK Center"
+    "venueName": "BOK Center",
+    "guideUrl": "https://concerto-concessions.netlify.app/bokcenter"
   },
   "bp_pulse_live": {
     "updated": "",
@@ -482,7 +519,8 @@
     "officialConcessionsUrl": "https://www.bppulselive.co.uk/your-visit/food-and-drink",
     "city": "Birmingham",
     "state": "",
-    "venueName": "bp pulse Live"
+    "venueName": "bp pulse Live",
+    "guideUrl": "https://concerto-concessions.netlify.app/bppulselive"
   },
   "bridgestone_arena": {
     "updated": "",
@@ -494,7 +532,8 @@
     "officialConcessionsUrl": "https://www.bridgestonearena.com/plan-your-visit/dining",
     "city": "Nashville",
     "state": "TN",
-    "venueName": "Bridgestone Arena"
+    "venueName": "Bridgestone Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/bridgestonearena"
   },
   "broadview_stage_at_spac": {
     "updated": "",
@@ -503,7 +542,8 @@
     "officialConcessionsUrl": "https://www.livenation.com/venues",
     "city": "Saratoga Springs",
     "state": "NY",
-    "venueName": "Broadview Stage at SPAC"
+    "venueName": "Broadview Stage at SPAC",
+    "guideUrl": "https://concerto-concessions.netlify.app/broadviewstageatspac"
   },
   "brighton_centre": {
     "updated": "",
@@ -512,7 +552,8 @@
     "officialConcessionsUrl": "https://brightoncentre.co.uk/visiting-us/food-drink/",
     "city": "Brighton",
     "state": "",
-    "venueName": "Brighton Centre"
+    "venueName": "Brighton Centre",
+    "guideUrl": "https://concerto-concessions.netlify.app/brightoncentre"
   },
   "brooklyn_paramount": {
     "updated": "",
@@ -521,7 +562,8 @@
     "officialConcessionsUrl": "https://www.brooklynparamount.com/visit",
     "city": "Brooklyn",
     "state": "NY",
-    "venueName": "Brooklyn Paramount"
+    "venueName": "Brooklyn Paramount",
+    "guideUrl": "https://concerto-concessions.netlify.app/brooklynparamount"
   },
   "busch_stadium": {
     "updated": "",
@@ -530,7 +572,8 @@
     "officialConcessionsUrl": "http://stlouis.cardinals.mlb.com/stl/ticketing/season.jsp?loc=27game&view=all",
     "city": "St. Louis",
     "state": "MO",
-    "venueName": "Busch Stadium"
+    "venueName": "Busch Stadium",
+    "guideUrl": "https://concerto-concessions.netlify.app/buschstadium"
   },
   "byline_bank_aragon_ballroom": {
     "updated": "",
@@ -539,7 +582,8 @@
     "officialConcessionsUrl": "https://www.aragonballroomchicago.com/visit",
     "city": "Chicago",
     "state": "IL",
-    "venueName": "Byline Bank Aragon Ballroom"
+    "venueName": "Byline Bank Aragon Ballroom",
+    "guideUrl": "https://concerto-concessions.netlify.app/bylinebankaragonballroom"
   },
   "cable_dahmer_arena": {
     "updated": "",
@@ -563,7 +607,8 @@
     "officialConcessionsUrl": "https://www.cabledahmerarena.com/plan-your-visit/concessions-catering",
     "city": "Independence",
     "state": "MO",
-    "venueName": "Cable Dahmer Arena"
+    "venueName": "Cable Dahmer Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/cabledahmerarena"
   },
   "caesars_superdome": {
     "updated": "",
@@ -572,7 +617,8 @@
     "officialConcessionsUrl": "https://www.caesarssuperdome.com/plan-your-visit/food-and-beverage",
     "city": "New Orleans",
     "state": "LA",
-    "venueName": "Caesars Superdome"
+    "venueName": "Caesars Superdome",
+    "guideUrl": "https://concerto-concessions.netlify.app/caesarssuperdome"
   },
   "camp_randall_stadium": {
     "updated": "",
@@ -581,7 +627,8 @@
     "officialConcessionsUrl": "https://www.channel3000.com/madison-magazine/city-life/a-food-drink-and-celebration-guide-to-madison-game-days/article_248d3455-786f-597b-972d-5f7db00f1a29.html",
     "city": "Madison",
     "state": "WI",
-    "venueName": "Camp Randall Stadium"
+    "venueName": "Camp Randall Stadium",
+    "guideUrl": "https://concerto-concessions.netlify.app/camprandallstadium"
   },
   "canada_life_centre": {
     "updated": "",
@@ -593,7 +640,8 @@
     "officialConcessionsUrl": "https://www.canadalifecentre.ca/food-shop/",
     "city": "Winnipeg",
     "state": "MB",
-    "venueName": "Canada Life Centre"
+    "venueName": "Canada Life Centre",
+    "guideUrl": "https://concerto-concessions.netlify.app/canadalifecentre"
   },
   "canadian_tire_centre": {
     "updated": "",
@@ -609,7 +657,8 @@
     "officialConcessionsUrl": "https://www.canadiantirecentre.com/food-beverage/restaurants",
     "city": "Ottawa",
     "state": "ON",
-    "venueName": "Canadian Tire Centre"
+    "venueName": "Canadian Tire Centre",
+    "guideUrl": "https://concerto-concessions.netlify.app/canadiantirecentre"
   },
   "capital_one_arena": {
     "updated": "",
@@ -618,7 +667,8 @@
     "officialConcessionsUrl": "https://www.capitalonearena.com/plan-your-visit/arena-faqs",
     "city": "Washington",
     "state": "DC",
-    "venueName": "Capital One Arena"
+    "venueName": "Capital One Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/capitalonearena"
   },
   "center_stage_theater": {
     "updated": "",
@@ -627,7 +677,8 @@
     "officialConcessionsUrl": "https://www.centerstage-atlanta.com/directions-parking/",
     "city": "Atlanta",
     "state": "GA",
-    "venueName": "Center Stage Theater"
+    "venueName": "Center Stage Theater",
+    "guideUrl": "https://concerto-concessions.netlify.app/centerstagetheater"
   },
   "cfg_bank_arena": {
     "updated": "",
@@ -636,7 +687,8 @@
     "officialConcessionsUrl": "https://www.cfgbankarena.com/wp-content/uploads/2023/05/Fan-Guide.pdf",
     "city": "Baltimore",
     "state": "MD",
-    "venueName": "CFG Bank Arena"
+    "venueName": "CFG Bank Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/cfgbankarena"
   },
   "chaifetz_arena": {
     "updated": "",
@@ -652,7 +704,8 @@
     "officialConcessionsUrl": "https://www.chaifetzarena.com/guest-experience/concessions",
     "city": "St. Louis",
     "state": "MO",
-    "venueName": "Chaifetz Arena"
+    "venueName": "Chaifetz Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/chaifetzarena"
   },
   "chase_center": {
     "updated": "2022-10-11",
@@ -670,21 +723,22 @@
       "Peaches Patties",
       "Sabores Del Sur",
       "La Corneta Tacqueria",
-      "Old Skool Caf\u00e9",
-      "Thatcher\u2019s Popcorn",
-      "Yvonne\u2019s Southern Sweets",
+      "Old Skool Café",
+      "Thatcher’s Popcorn",
+      "Yvonne’s Southern Sweets",
       "Frozen Khusterd",
       "Bakesale Betty",
-      "Big Nate\u2019s BBQ",
+      "Big Nate’s BBQ",
       "Hot Dog Bills Burger Dog",
-      "Sam\u2019s Chowder House",
+      "Sam’s Chowder House",
       "Tacolicious",
-      "Tony G\u2019s Pizza"
+      "Tony G’s Pizza"
     ],
     "officialConcessionsUrl": "https://www.chasecenter.com/news/food-and-beverage-program-20221011/",
     "city": "San Francisco",
     "state": "CA",
-    "venueName": "Chase Center"
+    "venueName": "Chase Center",
+    "guideUrl": "https://concerto-concessions.netlify.app/chasecenter"
   },
   "chase_field": {
     "updated": "",
@@ -699,7 +753,8 @@
     "officialConcessionsUrl": "https://www.mlb.com/athletics/ballpark/food-and-beverage",
     "city": "Phoenix",
     "state": "AZ",
-    "venueName": "Chase Field"
+    "venueName": "Chase Field",
+    "guideUrl": "https://concerto-concessions.netlify.app/chasefield"
   },
   "chi_health_center": {
     "updated": "",
@@ -708,7 +763,8 @@
     "officialConcessionsUrl": "https://chihealthcenteromaha.com/arena/concessions/",
     "city": "Omaha",
     "state": "NE",
-    "venueName": "CHI Health Center"
+    "venueName": "CHI Health Center",
+    "guideUrl": "https://concerto-concessions.netlify.app/chihealthcenter"
   },
   "citi_field": {
     "updated": "",
@@ -723,7 +779,8 @@
     "officialConcessionsUrl": "https://www.mlb.com/athletics/ballpark/food-and-beverage",
     "city": "Queens",
     "state": "NY",
-    "venueName": "Citi Field"
+    "venueName": "Citi Field",
+    "guideUrl": "https://concerto-concessions.netlify.app/citifield"
   },
   "citizens_bank_park": {
     "updated": "",
@@ -738,7 +795,8 @@
     "officialConcessionsUrl": "https://www.mlb.com/athletics/ballpark/food-and-beverage",
     "city": "Philadelphia",
     "state": "PA",
-    "venueName": "Citizens Bank Park"
+    "venueName": "Citizens Bank Park",
+    "guideUrl": "https://concerto-concessions.netlify.app/citizensbankpark"
   },
   "citizens_house_of_blues": {
     "updated": "",
@@ -747,7 +805,8 @@
     "officialConcessionsUrl": "https://boston.houseofblues.com/restaurant-and-bar",
     "city": "Boston",
     "state": "MA",
-    "venueName": "Citizens House of Blues"
+    "venueName": "Citizens House of Blues",
+    "guideUrl": "https://concerto-concessions.netlify.app/citizenshouseofblues"
   },
   "climate_pledge_arena": {
     "updated": "",
@@ -755,12 +814,12 @@
     "stands": [
       "1st Ave Nachos",
       "Ballard Pizza Co.",
-      "Bavarian Meats\u00ae",
+      "Bavarian Meats®",
       "Big Chicken",
       "Bristol Bay Chowder",
       "Bristol Bay Wild Market",
       "Casa Escobar",
-      "Chef\u2019s Table",
+      "Chef’s Table",
       "Coors Light Mountain Marketplace",
       "Desserts",
       "Dumpling House",
@@ -769,7 +828,8 @@
     "officialConcessionsUrl": "https://climatepledgearena.com/food-beverage/",
     "city": "Seattle",
     "state": "WA",
-    "venueName": "Climate Pledge Arena"
+    "venueName": "Climate Pledge Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/climatepledgearena"
   },
   "cocacola_coliseum": {
     "updated": "",
@@ -778,7 +838,8 @@
     "officialConcessionsUrl": "https://www.coca-colacoliseum.com/plan-your-visit/food-beverage",
     "city": "Toronto",
     "state": "ON",
-    "venueName": "Coca-Cola Coliseum"
+    "venueName": "Coca-Cola Coliseum",
+    "guideUrl": "https://concerto-concessions.netlify.app/cocacolacoliseum"
   },
   "cocacola_roxy": {
     "updated": "",
@@ -787,7 +848,8 @@
     "officialConcessionsUrl": "https://www.cocacolaroxy.com/menu",
     "city": "Atlanta",
     "state": "GA",
-    "venueName": "Coca-Cola Roxy"
+    "venueName": "Coca-Cola Roxy",
+    "guideUrl": "https://concerto-concessions.netlify.app/cocacolaroxy"
   },
   "colonial_life_arena": {
     "updated": "",
@@ -796,7 +858,8 @@
     "officialConcessionsUrl": "https://www.coloniallifearena.com/arena-info/faqs",
     "city": "Columbia",
     "state": "SC",
-    "venueName": "Colonial Life Arena"
+    "venueName": "Colonial Life Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/coloniallifearena"
   },
   "comerica_park": {
     "updated": "2025",
@@ -812,7 +875,8 @@
     "officialConcessionsUrl": "https://www.mlb.com/tigers/ballpark/food",
     "city": "Detroit",
     "state": "MI",
-    "venueName": "Comerica Park"
+    "venueName": "Comerica Park",
+    "guideUrl": "https://concerto-concessions.netlify.app/comericapark"
   },
   "commonwealth_stadium": {
     "updated": "",
@@ -828,7 +892,7 @@
       "Beer Concession 3 and 6",
       "X-Bar Caesar Bar",
       "Highball Express",
-      "Satellite Men\u2019s/Women\u2019s Highball West",
+      "Satellite Men’s/Women’s Highball West",
       "Beer Portable West",
       "Jackie Parker Room",
       "Quarterback Club"
@@ -836,7 +900,8 @@
     "officialConcessionsUrl": "https://www.edmonton.ca/attractions_events/commonwealth_stadium/food-beverage",
     "city": "Edmonton",
     "state": "AB",
-    "venueName": "Commonwealth Stadium"
+    "venueName": "Commonwealth Stadium",
+    "guideUrl": "https://concerto-concessions.netlify.app/commonwealthstadium"
   },
   "coop_live": {
     "updated": "",
@@ -845,7 +910,8 @@
     "officialConcessionsUrl": "https://www.cooplive.com/f-and-b-n2df",
     "city": "Manchester",
     "state": "",
-    "venueName": "Co-op Live"
+    "venueName": "Co-op Live",
+    "guideUrl": "https://concerto-concessions.netlify.app/cooplive"
   },
   "coors_field": {
     "updated": "",
@@ -860,7 +926,8 @@
     "officialConcessionsUrl": "https://www.mlb.com/athletics/ballpark/food-and-beverage",
     "city": "Denver",
     "state": "CO",
-    "venueName": "Coors Field"
+    "venueName": "Coors Field",
+    "guideUrl": "https://concerto-concessions.netlify.app/coorsfield"
   },
   "credit_union_1_amphitheatre": {
     "updated": "",
@@ -875,7 +942,8 @@
     "officialConcessionsUrl": "https://www.creditunion1amp.com/bites",
     "city": "Tinley Park",
     "state": "IL",
-    "venueName": "Credit Union 1 Amphitheatre"
+    "venueName": "Credit Union 1 Amphitheatre",
+    "guideUrl": "https://concerto-concessions.netlify.app/creditunion1amphitheatre"
   },
   "cross_insurance_arena": {
     "updated": "",
@@ -884,7 +952,8 @@
     "officialConcessionsUrl": "https://www.crossarenaportland.com/plan-your-visit/concessions",
     "city": "Portland",
     "state": "ME",
-    "venueName": "Cross Insurance Arena"
+    "venueName": "Cross Insurance Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/crossinsurancearena"
   },
   "cross_insurance_center": {
     "updated": "",
@@ -893,7 +962,8 @@
     "officialConcessionsUrl": "https://www.crossinsurancecenter.com/concessions/",
     "city": "Bangor",
     "state": "ME",
-    "venueName": "Cross Insurance Center"
+    "venueName": "Cross Insurance Center",
+    "guideUrl": "https://concerto-concessions.netlify.app/crossinsurancecenter"
   },
   "cryptocom_arena": {
     "updated": "",
@@ -902,7 +972,8 @@
     "officialConcessionsUrl": "https://www.cryptoarena.com/plan-your-visit/food-drink",
     "city": "Los Angeles",
     "state": "CA",
-    "venueName": "Crypto.com Arena"
+    "venueName": "Crypto.com Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/cryptocomarena"
   },
   "cure_insurance_arena": {
     "updated": "",
@@ -923,7 +994,8 @@
     "officialConcessionsUrl": "https://www.cureinsurancearena.com/plan/concessions",
     "city": "Trenton",
     "state": "NJ",
-    "venueName": "CURE Insurance Arena"
+    "venueName": "CURE Insurance Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/cureinsurancearena"
   },
   "daikin_park": {
     "updated": "",
@@ -938,7 +1010,8 @@
     "officialConcessionsUrl": "https://www.mlb.com/athletics/ballpark/food-and-beverage",
     "city": "Houston",
     "state": "TX",
-    "venueName": "Daikin Park"
+    "venueName": "Daikin Park",
+    "guideUrl": "https://concerto-concessions.netlify.app/daikinpark"
   },
   "delta_center": {
     "updated": "",
@@ -947,7 +1020,8 @@
     "officialConcessionsUrl": "https://www.deltacenter.com/about-us/",
     "city": "Salt Lake City",
     "state": "UT",
-    "venueName": "Delta Center"
+    "venueName": "Delta Center",
+    "guideUrl": "https://concerto-concessions.netlify.app/deltacenter"
   },
   "desert_diamond_arena": {
     "updated": "",
@@ -956,7 +1030,8 @@
     "officialConcessionsUrl": "https://www.desertdiamondarena.com/premium-experiences/",
     "city": "Glendale",
     "state": "AZ",
-    "venueName": "Desert Diamond Arena"
+    "venueName": "Desert Diamond Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/desertdiamondarena"
   },
   "dickies_arena": {
     "updated": "",
@@ -965,7 +1040,8 @@
     "officialConcessionsUrl": "https://www.dickiesarena.com/events/category/concert/k-pop/",
     "city": "Fort Worth",
     "state": "TX",
-    "venueName": "Dickies Arena"
+    "venueName": "Dickies Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/dickiesarena"
   },
   "dodger_stadium": {
     "updated": "",
@@ -980,7 +1056,8 @@
     "officialConcessionsUrl": "https://www.mlb.com/athletics/ballpark/food-and-beverage",
     "city": "Los Angeles",
     "state": "CA",
-    "venueName": "Dodger Stadium"
+    "venueName": "Dodger Stadium",
+    "guideUrl": "https://concerto-concessions.netlify.app/dodgerstadium"
   },
   "dos_equis_pavilion": {
     "updated": "",
@@ -995,7 +1072,8 @@
     "officialConcessionsUrl": "https://www.dosequispavilion.com/bites",
     "city": "Dallas",
     "state": "TX",
-    "venueName": "Dos Equis Pavilion"
+    "venueName": "Dos Equis Pavilion",
+    "guideUrl": "https://concerto-concessions.netlify.app/dosequispavilion"
   },
   "eaglebank_arena": {
     "updated": "",
@@ -1003,14 +1081,15 @@
     "stands": [
       "Coaches Corner",
       "The Mason Green",
-      "George\u2019s Bistro",
+      "George’s Bistro",
       "Patriot Grill",
       "Additional Stands"
     ],
     "officialConcessionsUrl": "https://www.eaglebankarena.com/plan-your-visit/food-beverage",
     "city": "Fairfax",
     "state": "VA",
-    "venueName": "EagleBank Arena"
+    "venueName": "EagleBank Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/eaglebankarena"
   },
   "empower_federal_credit_union_amphitheater": {
     "updated": "",
@@ -1019,7 +1098,8 @@
     "officialConcessionsUrl": "https://www.ticketmaster.com/empower-federal-credit-union-amphitheater-at-tickets-syracuse/venue/1383",
     "city": "Syracuse",
     "state": "NY",
-    "venueName": "Empower Federal Credit Union Amphitheater"
+    "venueName": "Empower Federal Credit Union Amphitheater",
+    "guideUrl": "https://concerto-concessions.netlify.app/empowerfederalcreditunionamphitheater"
   },
   "empower_field_at_mile_high": {
     "updated": "",
@@ -1028,7 +1108,8 @@
     "officialConcessionsUrl": "https://www.empowerfieldatmilehigh.com/plan-your-visit/food-beverage",
     "city": "Denver",
     "state": "CO",
-    "venueName": "Empower Field at Mile High"
+    "venueName": "Empower Field at Mile High",
+    "guideUrl": "https://concerto-concessions.netlify.app/empowerfieldatmilehigh"
   },
   "enterprise_center": {
     "updated": "",
@@ -1037,7 +1118,8 @@
     "officialConcessionsUrl": "http://www.enterprisecenter.com/assets/doc/ConcessionList-ab710498e5.pdf",
     "city": "St. Louis",
     "state": "MO",
-    "venueName": "Enterprise Center"
+    "venueName": "Enterprise Center",
+    "guideUrl": "https://concerto-concessions.netlify.app/enterprisecenter"
   },
   "estadio_gnp_seguros": {
     "updated": "",
@@ -1046,7 +1128,8 @@
     "officialConcessionsUrl": "https://www.estadiognpseguros.com/boxes",
     "city": "Mexico City",
     "state": "",
-    "venueName": "Estadio GNP Seguros"
+    "venueName": "Estadio GNP Seguros",
+    "guideUrl": "https://concerto-concessions.netlify.app/estadiognpseguros"
   },
   "eventim_apollo": {
     "updated": "",
@@ -1055,7 +1138,8 @@
     "officialConcessionsUrl": "https://www.eventimapollo.com/venue-info/seating-chart/",
     "city": "London",
     "state": "",
-    "venueName": "Eventim Apollo"
+    "venueName": "Eventim Apollo",
+    "guideUrl": "https://concerto-concessions.netlify.app/eventimapollo"
   },
   "falcon_stadium": {
     "updated": "",
@@ -1064,7 +1148,8 @@
     "officialConcessionsUrl": "https://goairforcefalcons.com/documents/2024/8/22/AFA_Catering_Menu.pdf",
     "city": "Air Force Academy",
     "state": "CO",
-    "venueName": "Falcon Stadium"
+    "venueName": "Falcon Stadium",
+    "guideUrl": "https://concerto-concessions.netlify.app/falconstadium"
   },
   "fargodome": {
     "updated": "",
@@ -1073,7 +1158,8 @@
     "officialConcessionsUrl": "https://www.fargodome.com/plan-your-visit/faqs",
     "city": "Fargo",
     "state": "ND",
-    "venueName": "Fargodome"
+    "venueName": "Fargodome",
+    "guideUrl": "https://concerto-concessions.netlify.app/fargodome"
   },
   "fedexforum": {
     "updated": "",
@@ -1102,7 +1188,8 @@
     "officialConcessionsUrl": "https://www.fedexforum.com/plan-your-visit/food-beverage",
     "city": "Memphis",
     "state": "TN",
-    "venueName": "FedExForum"
+    "venueName": "FedExForum",
+    "guideUrl": "https://concerto-concessions.netlify.app/fedexforum"
   },
   "fenway_park": {
     "updated": "",
@@ -1117,7 +1204,8 @@
     "officialConcessionsUrl": "https://www.mlb.com/athletics/ballpark/food-and-beverage",
     "city": "Boston",
     "state": "MA",
-    "venueName": "Fenway Park"
+    "venueName": "Fenway Park",
+    "guideUrl": "https://concerto-concessions.netlify.app/fenwaypark"
   },
   "festhalle": {
     "updated": "",
@@ -1126,7 +1214,8 @@
     "officialConcessionsUrl": "https://festhalle.messefrankfurt.com/frankfurt/en/visitors.html",
     "city": "Frankfurt am Main",
     "state": "",
-    "venueName": "Festhalle"
+    "venueName": "Festhalle",
+    "guideUrl": "https://concerto-concessions.netlify.app/festhalle"
   },
   "fillmore_minneapolis_presented_by_affinity_plus": {
     "updated": "",
@@ -1137,7 +1226,8 @@
     "officialConcessionsUrl": "https://www.fillmoreminneapolis.com/visit",
     "city": "Minneapolis",
     "state": "MN",
-    "venueName": "Fillmore Minneapolis presented by Affinity Plus"
+    "venueName": "Fillmore Minneapolis presented by Affinity Plus",
+    "guideUrl": "https://concerto-concessions.netlify.app/fillmoreminneapolispresentedbyaffinityplus"
   },
   "fishers_event_center": {
     "updated": "",
@@ -1158,7 +1248,8 @@
     "officialConcessionsUrl": "https://fisherseventcenter.com/venue-info/food-and-beverage/",
     "city": "Fishers",
     "state": "IN",
-    "venueName": "Fishers Event Center"
+    "venueName": "Fishers Event Center",
+    "guideUrl": "https://concerto-concessions.netlify.app/fisherseventcenter"
   },
   "fivepoint_amphitheatre": {
     "updated": "",
@@ -1167,7 +1258,8 @@
     "officialConcessionsUrl": "https://www.greatparklive.com/premiumexperience",
     "city": "Irvine",
     "state": "CA",
-    "venueName": "FivePoint Amphitheatre"
+    "venueName": "FivePoint Amphitheatre",
+    "guideUrl": "https://concerto-concessions.netlify.app/fivepointamphitheatre"
   },
   "fiserv_forum": {
     "updated": "2024-10-21",
@@ -1183,7 +1275,8 @@
     "officialConcessionsUrl": "https://www.fiservforum.com/news/detail/milwaukee-bucks-and-fiserv-forum-unveil-new-food-and-beverage-offerings-for-2024-25-season",
     "city": "Milwaukee",
     "state": "WI",
-    "venueName": "Fiserv Forum"
+    "venueName": "Fiserv Forum",
+    "guideUrl": "https://concerto-concessions.netlify.app/fiservforum"
   },
   "fontainebleau_las_vegas": {
     "updated": "",
@@ -1192,7 +1285,8 @@
     "officialConcessionsUrl": "https://www.fontainebleaulasvegas.com/dining/in-room-dining/",
     "city": "Las Vegas",
     "state": "NV",
-    "venueName": "Fontainebleau Las Vegas"
+    "venueName": "Fontainebleau Las Vegas",
+    "guideUrl": "https://concerto-concessions.netlify.app/fontainebleaulasvegas"
   },
   "food_city_center": {
     "updated": "",
@@ -1201,7 +1295,8 @@
     "officialConcessionsUrl": "https://foodcitycenter.com/",
     "city": "Knoxville",
     "state": "TN",
-    "venueName": "Food City Center"
+    "venueName": "Food City Center",
+    "guideUrl": "https://concerto-concessions.netlify.app/foodcitycenter"
   },
   "ford_field": {
     "updated": "",
@@ -1261,7 +1356,8 @@
     "officialConcessionsUrl": "https://www.fordfield.com/restaurant-partners",
     "city": "Detroit",
     "state": "MI",
-    "venueName": "Ford Field"
+    "venueName": "Ford Field",
+    "guideUrl": "https://concerto-concessions.netlify.app/fordfield"
   },
   "ford_idaho_center_arena": {
     "updated": "",
@@ -1276,7 +1372,7 @@
       "Mini Donuts",
       "Nut Hut",
       "Chicos BBQ Grill",
-      "World\u2019s Best Corndogs",
+      "World’s Best Corndogs",
       "For the Love of Lemons",
       "El Jefe & El Rey",
       "Heidi's Kettle Corn"
@@ -1284,7 +1380,8 @@
     "officialConcessionsUrl": "https://www.fordidahocenter.com/plan-your-visit/concessions",
     "city": "Boise",
     "state": "ID",
-    "venueName": "Ford Idaho Center Arena"
+    "venueName": "Ford Idaho Center Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/fordidahocenterarena"
   },
   "forum_karln": {
     "updated": "",
@@ -1293,7 +1390,8 @@
     "officialConcessionsUrl": "https://www.forumkarlin.cz/en/for-visitors/ticket-sales/",
     "city": "Prague",
     "state": "",
-    "venueName": "Forum Karl\u00edn"
+    "venueName": "Forum Karlín",
+    "guideUrl": "https://concerto-concessions.netlify.app/forumkarln"
   },
   "fox_theatre_detroit": {
     "updated": "",
@@ -1312,7 +1410,8 @@
     "officialConcessionsUrl": "https://www.313presents.com/venue/little-caesars-arena/where-to-eat",
     "city": "Detroit",
     "state": "MI",
-    "venueName": "Fox Theatre Detroit"
+    "venueName": "Fox Theatre Detroit",
+    "guideUrl": "https://concerto-concessions.netlify.app/foxtheatredetroit"
   },
   "fox_theater": {
     "updated": "",
@@ -1321,7 +1420,8 @@
     "officialConcessionsUrl": "https://thefoxoakland.com/venue-info/the-den/",
     "city": "Oakland",
     "state": "CA",
-    "venueName": "Fox Theater"
+    "venueName": "Fox Theater",
+    "guideUrl": "https://concerto-concessions.netlify.app/foxtheater"
   },
   "freedom_mortgage_pavilion": {
     "updated": "",
@@ -1336,7 +1436,8 @@
     "officialConcessionsUrl": "https://www.freedommortgagepavilion.com/bites",
     "city": "Camden",
     "state": "NJ",
-    "venueName": "Freedom Mortgage Pavilion"
+    "venueName": "Freedom Mortgage Pavilion",
+    "guideUrl": "https://concerto-concessions.netlify.app/freedommortgagepavilion"
   },
   "frost_bank_center": {
     "updated": "",
@@ -1356,7 +1457,8 @@
     "officialConcessionsUrl": "https://www.frostbankcenter.com/arena/food-beverage",
     "city": "San Antonio",
     "state": "TX",
-    "venueName": "Frost Bank Center"
+    "venueName": "Frost Bank Center",
+    "guideUrl": "https://concerto-concessions.netlify.app/frostbankcenter"
   },
   "gainbridge_fieldhouse": {
     "updated": "",
@@ -1374,7 +1476,8 @@
     "officialConcessionsUrl": "https://www.gainbridgefieldhouse.com/connect/guest-chef-program",
     "city": "Indianapolis",
     "state": "IN",
-    "venueName": "Gainbridge Fieldhouse"
+    "venueName": "Gainbridge Fieldhouse",
+    "guideUrl": "https://concerto-concessions.netlify.app/gainbridgefieldhouse"
   },
   "gallagher_square_at_petco_park": {
     "updated": "",
@@ -1389,7 +1492,8 @@
     "officialConcessionsUrl": "https://www.mlb.com/athletics/ballpark/food-and-beverage",
     "city": "San Diego",
     "state": "CA",
-    "venueName": "Gallagher Square at Petco Park"
+    "venueName": "Gallagher Square at Petco Park",
+    "guideUrl": "https://concerto-concessions.netlify.app/gallaghersquareatpetcopark"
   },
   "gas_south_arena": {
     "updated": "",
@@ -1397,7 +1501,7 @@
     "stands": [
       "Una Fettina",
       "Arena Dogs & Deli",
-      "P.W.\u2019s Cheese Steaks",
+      "P.W.’s Cheese Steaks",
       "Georgian Grill",
       "Salsa Cantina",
       "Club 64",
@@ -1409,7 +1513,8 @@
     "officialConcessionsUrl": "https://www.gassouthdistrict.com/arena/dine-with-us",
     "city": "Duluth",
     "state": "GA",
-    "venueName": "Gas South Arena"
+    "venueName": "Gas South Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/gassoutharena"
   },
   "geha_field_at_arrowhead_stadium": {
     "updated": "",
@@ -1418,7 +1523,8 @@
     "officialConcessionsUrl": "https://www.chiefs.com/tickets/premiumseatingandsuites/",
     "city": "Kansas City",
     "state": "MO",
-    "venueName": "GEHA Field at Arrowhead Stadium"
+    "venueName": "GEHA Field at Arrowhead Stadium",
+    "guideUrl": "https://concerto-concessions.netlify.app/gehafieldatarrowheadstadium"
   },
   "giant_center": {
     "updated": "",
@@ -1449,7 +1555,8 @@
     "officialConcessionsUrl": "https://www.hersheyentertainment.com/hersheypark-stadium/info/food-drinks/",
     "city": "Hershey",
     "state": "PA",
-    "venueName": "GIANT Center"
+    "venueName": "GIANT Center",
+    "guideUrl": "https://concerto-concessions.netlify.app/giantcenter"
   },
   "gillette_stadium": {
     "updated": "",
@@ -1458,7 +1565,8 @@
     "officialConcessionsUrl": "https://www.gillettestadium.com/concessions/",
     "city": "Foxborough",
     "state": "MA",
-    "venueName": "Gillette Stadium"
+    "venueName": "Gillette Stadium",
+    "guideUrl": "https://concerto-concessions.netlify.app/gillettestadium"
   },
   "globe_life_field": {
     "updated": "",
@@ -1473,22 +1581,24 @@
     "officialConcessionsUrl": "https://www.mlb.com/athletics/ballpark/food-and-beverage",
     "city": "Arlington",
     "state": "TX",
-    "venueName": "Globe Life Field"
+    "venueName": "Globe Life Field",
+    "guideUrl": "https://concerto-concessions.netlify.app/globelifefield"
   },
   "golden_1_center": {
     "updated": "",
     "note": "Golden 1 Center offers diverse food options with a focus on local sourcing. Highlights include modern German bites, wood-fired pizza, and Mediterranean flavors, showcasing Sacramento's culinary scene.",
     "stands": [
       "Lowbrau",
-      "Paragary\u2019s",
-      "Lil\u2019 Cheese Dog House",
+      "Paragary’s",
+      "Lil’ Cheese Dog House",
       "Petra",
-      "El Jef\u00e9"
+      "El Jefé"
     ],
     "officialConcessionsUrl": "https://www.golden1center.com/news/detail/local-eats-spotlight-bridge-level/",
     "city": "Sacramento",
     "state": "CA",
-    "venueName": "Golden 1 Center"
+    "venueName": "Golden 1 Center",
+    "guideUrl": "https://concerto-concessions.netlify.app/golden1center"
   },
   "grand_casino_arena": {
     "updated": "",
@@ -1512,7 +1622,8 @@
     "officialConcessionsUrl": "https://www.grandcasinoarena.com/plan-your-visit/dine-with-us/concessions",
     "city": "Saint Paul",
     "state": "MN",
-    "venueName": "Grand Casino Arena"
+    "venueName": "Grand Casino Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/grandcasinoarena"
   },
   "great_american_ball_park": {
     "updated": "",
@@ -1522,15 +1633,16 @@
       "50 West Stand",
       "Wings & Rings",
       "Big Mozz",
-      "The Red\u2019s Island Griller",
-      "Glier\u2019s Goetta",
+      "The Red’s Island Griller",
+      "Glier’s Goetta",
       "Street Tacos",
       "Suite Bridge Ice Cream & Suite Bridge Bar"
     ],
     "officialConcessionsUrl": "https://www.mlb.com/reds/ballpark/gabp-food",
     "city": "Cincinnati",
     "state": "OH",
-    "venueName": "Great American Ball Park"
+    "venueName": "Great American Ball Park",
+    "guideUrl": "https://concerto-concessions.netlify.app/greatamericanballpark"
   },
   "hard_rock_stadium": {
     "updated": "2024-11-13T17:10:06-04:00",
@@ -1544,14 +1656,14 @@
       "Cheeseburger Baby",
       "Cluck",
       "Craft Provisions",
-      "Crisppi\u2019s Chicken",
+      "Crisppi’s Chicken",
       "Crust Artisan Pizza",
       "Ella Cafe",
       "Fan Favorites",
       "Fatboy Smashburgers",
       "Fuku",
       "Gourmet Donuts",
-      "Granny B\u2019z",
+      "Granny B’z",
       "Italian Vice",
       "Kebab Joint",
       "La Mila Nation",
@@ -1570,7 +1682,8 @@
     "officialConcessionsUrl": "https://www.hardrockstadium.com/concessions/",
     "city": "Miami Gardens",
     "state": "FL",
-    "venueName": "Hard Rock Stadium"
+    "venueName": "Hard Rock Stadium",
+    "guideUrl": "https://concerto-concessions.netlify.app/hardrockstadium"
   },
   "heritage_bank_center": {
     "updated": "",
@@ -1581,7 +1694,8 @@
     "officialConcessionsUrl": "https://heritagebankcenter.com/where-to-eat",
     "city": "Cincinnati",
     "state": "OH",
-    "venueName": "Heritage Bank Center"
+    "venueName": "Heritage Bank Center",
+    "guideUrl": "https://concerto-concessions.netlify.app/heritagebankcenter"
   },
   "hersheypark_stadium": {
     "updated": "",
@@ -1612,7 +1726,8 @@
     "officialConcessionsUrl": "https://www.hersheyentertainment.com/hersheypark-stadium/info/food-drinks/",
     "city": "Hershey",
     "state": "PA",
-    "venueName": "Hersheypark Stadium"
+    "venueName": "Hersheypark Stadium",
+    "guideUrl": "https://concerto-concessions.netlify.app/hersheyparkstadium"
   },
   "highmark_stadium": {
     "updated": "",
@@ -1621,7 +1736,8 @@
     "officialConcessionsUrl": "https://www.highmarkstadiumny.com/",
     "city": "Orchard Park",
     "state": "NY",
-    "venueName": "Highmark Stadium"
+    "venueName": "Highmark Stadium",
+    "guideUrl": "https://concerto-concessions.netlify.app/highmarkstadium"
   },
   "history": {
     "updated": "",
@@ -1630,7 +1746,8 @@
     "officialConcessionsUrl": "https://www.historytoronto.com/rentals/amenitites/food_and_beverage",
     "city": "Toronto",
     "state": "ON",
-    "venueName": "History"
+    "venueName": "History",
+    "guideUrl": "https://concerto-concessions.netlify.app/history"
   },
   "hollywood_bowl": {
     "updated": "",
@@ -1641,7 +1758,8 @@
     "officialConcessionsUrl": "https://www.hollywoodbowl.com/visit/when-youre-here/food-wine/lucques-circle",
     "city": "Los Angeles",
     "state": "CA",
-    "venueName": "Hollywood Bowl"
+    "venueName": "Hollywood Bowl",
+    "guideUrl": "https://concerto-concessions.netlify.app/hollywoodbowl"
   },
   "honda_center": {
     "updated": "",
@@ -1665,7 +1783,8 @@
     "officialConcessionsUrl": "https://www.hondacenter.com/arena-info/concessions/",
     "city": "Anaheim",
     "state": "CA",
-    "venueName": "Honda Center"
+    "venueName": "Honda Center",
+    "guideUrl": "https://concerto-concessions.netlify.app/hondacenter"
   },
   "house_of_blues_chicago": {
     "updated": "",
@@ -1674,7 +1793,8 @@
     "officialConcessionsUrl": "https://chicago.houseofblues.com/restaurant-and-bar",
     "city": "Chicago",
     "state": "IL",
-    "venueName": "House of Blues Chicago"
+    "venueName": "House of Blues Chicago",
+    "guideUrl": "https://concerto-concessions.netlify.app/houseofblueschicago"
   },
   "house_of_blues_las_vegas": {
     "updated": "",
@@ -1683,7 +1803,8 @@
     "officialConcessionsUrl": "https://locations.houseofblues.com/restaurant-and-bar/oh/cleveland/308-euclid-ave.",
     "city": "Las Vegas",
     "state": "NV",
-    "venueName": "House of Blues Las Vegas"
+    "venueName": "House of Blues Las Vegas",
+    "guideUrl": "https://concerto-concessions.netlify.app/houseofblueslasvegas"
   },
   "howard_theatre": {
     "updated": "",
@@ -1692,7 +1813,8 @@
     "officialConcessionsUrl": "https://www.ticketmaster.com/howard-theatre-tickets-washington/venue/172555",
     "city": "Washington",
     "state": "DC",
-    "venueName": "Howard Theatre"
+    "venueName": "Howard Theatre",
+    "guideUrl": "https://concerto-concessions.netlify.app/howardtheatre"
   },
   "huntington_bank_field": {
     "updated": "",
@@ -1701,7 +1823,8 @@
     "officialConcessionsUrl": "https://huntingtonparkcolumbus.com/contact-us/",
     "city": "Columbus",
     "state": "OH",
-    "venueName": "Huntington Bank Field"
+    "venueName": "Huntington Bank Field",
+    "guideUrl": "https://concerto-concessions.netlify.app/huntingtonbankfield"
   },
   "intuit_dome": {
     "updated": "",
@@ -1710,7 +1833,8 @@
     "officialConcessionsUrl": "https://intuitdome.com/about/a-z-guide",
     "city": "Inglewood",
     "state": "CA",
-    "venueName": "Intuit Dome"
+    "venueName": "Intuit Dome",
+    "guideUrl": "https://concerto-concessions.netlify.app/intuitdome"
   },
   "irving_plaza": {
     "updated": "",
@@ -1719,7 +1843,8 @@
     "officialConcessionsUrl": "https://www.irvingplaza.com/visit",
     "city": "New York",
     "state": "NY",
-    "venueName": "Irving Plaza"
+    "venueName": "Irving Plaza",
+    "guideUrl": "https://concerto-concessions.netlify.app/irvingplaza"
   },
   "isleta_amphitheater": {
     "updated": "",
@@ -1733,7 +1858,8 @@
     "officialConcessionsUrl": "https://www.isletaamp.com/bites",
     "city": "Albuquerque",
     "state": "NM",
-    "venueName": "Isleta Amphitheater"
+    "venueName": "Isleta Amphitheater",
+    "guideUrl": "https://concerto-concessions.netlify.app/isletaamphitheater"
   },
   "jiffy_lube_live": {
     "updated": "",
@@ -1749,7 +1875,8 @@
     "officialConcessionsUrl": "https://www.jiffylubelive.com/bites",
     "city": "Bristow",
     "state": "VA",
-    "venueName": "Jiffy Lube Live"
+    "venueName": "Jiffy Lube Live",
+    "guideUrl": "https://concerto-concessions.netlify.app/jiffylubelive"
   },
   "jma_wireless_dome": {
     "updated": "",
@@ -1764,21 +1891,23 @@
     "officialConcessionsUrl": "https://cuse.com/sports/2018/8/6/carrier-dome-concessions",
     "city": "Syracuse",
     "state": "NY",
-    "venueName": "JMA Wireless Dome"
+    "venueName": "JMA Wireless Dome",
+    "guideUrl": "https://concerto-concessions.netlify.app/jmawirelessdome"
   },
   "johan_cruijff_arena": {
     "updated": "",
-    "note": "The Johan Cruijff ArenA offers a variety of food and drink options, including refreshing beverages and snacks available at kiosks. Notable dining experiences include Restaurant ON5TH by Lute\u00ae, Glasgow '72 Lounge, and House of Legends, which offers Indonesian cuisine.",
+    "note": "The Johan Cruijff ArenA offers a variety of food and drink options, including refreshing beverages and snacks available at kiosks. Notable dining experiences include Restaurant ON5TH by Lute®, Glasgow '72 Lounge, and House of Legends, which offers Indonesian cuisine.",
     "stands": [
       "Kiosk Drinks & Bites",
-      "Restaurant ON5TH by Lute\u00ae",
+      "Restaurant ON5TH by Lute®",
       "Glasgow '72 Lounge",
       "House of Legends"
     ],
     "officialConcessionsUrl": "https://www.johancruijffarena.nl/en/visit-the-arena/in-de-arena/",
     "city": "Amsterdam",
     "state": "",
-    "venueName": "Johan Cruijff ArenA"
+    "venueName": "Johan Cruijff ArenA",
+    "guideUrl": "https://concerto-concessions.netlify.app/johancruijffarena"
   },
   "john_paul_jones_arena": {
     "updated": "",
@@ -1787,7 +1916,8 @@
     "officialConcessionsUrl": "https://www.johnpauljonesarena.com/p/events-and-tickets/know-before-you-go",
     "city": "Charlottesville",
     "state": "VA",
-    "venueName": "John Paul Jones Arena"
+    "venueName": "John Paul Jones Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/johnpauljonesarena"
   },
   "kaseya_center": {
     "updated": "",
@@ -1801,7 +1931,8 @@
     "officialConcessionsUrl": "https://www.kaseyacenter.com/plan-your-visit/food-beverage",
     "city": "Miami",
     "state": "FL",
-    "venueName": "Kaseya Center"
+    "venueName": "Kaseya Center",
+    "guideUrl": "https://concerto-concessions.netlify.app/kaseyacenter"
   },
   "kauffman_stadium": {
     "updated": "",
@@ -1816,7 +1947,8 @@
     "officialConcessionsUrl": "https://www.mlb.com/athletics/ballpark/food-and-beverage",
     "city": "Kansas City",
     "state": "MO",
-    "venueName": "Kauffman Stadium"
+    "venueName": "Kauffman Stadium",
+    "guideUrl": "https://concerto-concessions.netlify.app/kauffmanstadium"
   },
   "keybank_center": {
     "updated": "",
@@ -1825,7 +1957,8 @@
     "officialConcessionsUrl": "https://www.keybankcenter.com/page/ada-policy",
     "city": "Buffalo",
     "state": "NY",
-    "venueName": "KeyBank Center"
+    "venueName": "KeyBank Center",
+    "guideUrl": "https://concerto-concessions.netlify.app/keybankcenter"
   },
   "king_baudouin_stadium": {
     "updated": "",
@@ -1834,34 +1967,37 @@
     "officialConcessionsUrl": "https://kingbaudouinstadium.be/index.php/practical-information/?lang=en",
     "city": "Brussels",
     "state": "",
-    "venueName": "King Baudouin Stadium"
+    "venueName": "King Baudouin Stadium",
+    "guideUrl": "https://concerto-concessions.netlify.app/kingbaudouinstadium"
   },
   "kia_center": {
     "updated": "2024-10-22",
-    "note": "Kia Center has expanded its food and beverage offerings to include eight local favorites, featuring a new 4(or)7 menu with items priced at $4 or $7. Highlights include Nauti Lobstah, Black Rooster Taqueria, Domi Italian Ice, and Kelly\u2019s Homemade Ice Cream.",
+    "note": "Kia Center has expanded its food and beverage offerings to include eight local favorites, featuring a new 4(or)7 menu with items priced at $4 or $7. Highlights include Nauti Lobstah, Black Rooster Taqueria, Domi Italian Ice, and Kelly’s Homemade Ice Cream.",
     "stands": [
       "Nauti Lobstah",
       "Black Rooster Taqueria",
       "Domi Italian Ice",
-      "Kelly\u2019s Homemade Ice Cream"
+      "Kelly’s Homemade Ice Cream"
     ],
     "officialConcessionsUrl": "https://www.kiacenter.com/news/detail/kia-center-adds-local-flavor-to-food-beverage-experience-this-year",
     "city": "Orlando",
     "state": "FL",
-    "venueName": "Kia Center"
+    "venueName": "Kia Center",
+    "guideUrl": "https://concerto-concessions.netlify.app/kiacenter"
   },
   "kia_forum": {
     "updated": "",
-    "note": "The Kia Forum offers a variety of food and drink options featuring popular Southern California brands like Carney\u2019s, Fresh Brothers Pizza, and Papa Cantella\u2019s Hot Dogs. Alcoholic beverages include Casamigos Tequila, C\u00eeroc, Jack Daniels, and Stella. The venue also has checkout-free stores for quick access to snacks and drinks.",
+    "note": "The Kia Forum offers a variety of food and drink options featuring popular Southern California brands like Carney’s, Fresh Brothers Pizza, and Papa Cantella’s Hot Dogs. Alcoholic beverages include Casamigos Tequila, Cîroc, Jack Daniels, and Stella. The venue also has checkout-free stores for quick access to snacks and drinks.",
     "stands": [
-      "Carney\u2019s",
+      "Carney’s",
       "Fresh Brothers Pizza",
-      "Papa Cantella\u2019s Hot Dogs"
+      "Papa Cantella’s Hot Dogs"
     ],
     "officialConcessionsUrl": "https://thekiaforum.com/food-drink/",
     "city": "Inglewood",
     "state": "CA",
-    "venueName": "Kia Forum"
+    "venueName": "Kia Forum",
+    "guideUrl": "https://concerto-concessions.netlify.app/kiaforum"
   },
   "lanxess_arena": {
     "updated": "",
@@ -1872,7 +2008,8 @@
     "officialConcessionsUrl": "https://www.lanxess-arena.de/essen-trinken/restaurants/backstage",
     "city": "Cologne",
     "state": "",
-    "venueName": "LANXESS Arena"
+    "venueName": "LANXESS Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/lanxessarena"
   },
   "lambeau_field": {
     "updated": "",
@@ -1881,16 +2018,18 @@
     "officialConcessionsUrl": "https://www.packers.com/photos/photos-packers-debut-new-concession-menu-items-at-lambeau-field",
     "city": "Green Bay",
     "state": "WI",
-    "venueName": "Lambeau Field"
+    "venueName": "Lambeau Field",
+    "guideUrl": "https://concerto-concessions.netlify.app/lambeaufield"
   },
   "ldlc_arena": {
     "updated": "",
-    "note": "The LDLC Arena offers a variety of food options with 75% of the menu made in-house using fresh ingredients. Visitors can enjoy burgers, tenders, hot-dogs, fries, sandwiches, and more. Additionally, there are special carts for cr\u00eapes and Haribo treats in the main hall.",
+    "note": "The LDLC Arena offers a variety of food options with 75% of the menu made in-house using fresh ingredients. Visitors can enjoy burgers, tenders, hot-dogs, fries, sandwiches, and more. Additionally, there are special carts for crêpes and Haribo treats in the main hall.",
     "stands": [],
     "officialConcessionsUrl": "https://www.olvallee.fr/restauration/restauration-ldlc-arena-interieur/",
-    "city": "D\u00e9cines-Charpieu",
+    "city": "Décines-Charpieu",
     "state": "",
-    "venueName": "LDLC Arena"
+    "venueName": "LDLC Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/ldlcarena"
   },
   "lenovo_center": {
     "updated": "",
@@ -1910,7 +2049,8 @@
     "officialConcessionsUrl": "https://www.lenovocenter.com/concessions",
     "city": "Morrisville",
     "state": "NC",
-    "venueName": "Lenovo Center"
+    "venueName": "Lenovo Center",
+    "guideUrl": "https://concerto-concessions.netlify.app/lenovocenter"
   },
   "letnia_scena_progresji": {
     "updated": "",
@@ -1919,7 +2059,8 @@
     "officialConcessionsUrl": "https://progresja.com/en/about-progresja/for-visitors/",
     "city": "Warsaw",
     "state": "",
-    "venueName": "Letnia Scena Progresji"
+    "venueName": "Letnia Scena Progresji",
+    "guideUrl": "https://concerto-concessions.netlify.app/letniascenaprogresji"
   },
   "levis_stadium": {
     "updated": "",
@@ -1928,26 +2069,28 @@
     "officialConcessionsUrl": "https://levisstadium.com/concessions/",
     "city": "Santa Clara",
     "state": "CA",
-    "venueName": "Levi\u2019s Stadium"
+    "venueName": "Levi’s Stadium",
+    "guideUrl": "https://concerto-concessions.netlify.app/levisstadium"
   },
   "lincoln_financial_field": {
     "updated": "",
-    "note": "Lincoln Financial Field offers a diverse range of food and drink options, including exclusive club level offerings like Jerk Chicken Sandwiches and Philly Pressed Italiano Sandwiches. Local favorites feature iconic Philadelphia flavors such as cheesesteaks and Chickie\u2019s & Pete\u2019s CrabFries.",
+    "note": "Lincoln Financial Field offers a diverse range of food and drink options, including exclusive club level offerings like Jerk Chicken Sandwiches and Philly Pressed Italiano Sandwiches. Local favorites feature iconic Philadelphia flavors such as cheesesteaks and Chickie’s & Pete’s CrabFries.",
     "stands": [
       "Sideline Markets",
-      "Jackass Burrito\u2019s",
+      "Jackass Burrito’s",
       "The Carmichael",
       "The Quick",
       "9th Street Market",
-      "America\u2019s Pie Kitchen & Grille",
-      "Aussie Meat Pies by G\u2019Day Gourmet",
-      "Chickie\u2019s & Pete\u2019s",
+      "America’s Pie Kitchen & Grille",
+      "Aussie Meat Pies by G’Day Gourmet",
+      "Chickie’s & Pete’s",
       "Philly Pretzel Factory"
     ],
     "officialConcessionsUrl": "https://www.lincolnfinancialfield.com/food-and-concessions/",
     "city": "Philadelphia",
     "state": "PA",
-    "venueName": "Lincoln Financial Field"
+    "venueName": "Lincoln Financial Field",
+    "guideUrl": "https://concerto-concessions.netlify.app/lincolnfinancialfield"
   },
   "little_caesars_arena": {
     "updated": "",
@@ -1966,7 +2109,8 @@
     "officialConcessionsUrl": "https://www.313presents.com/venue/little-caesars-arena/where-to-eat",
     "city": "Detroit",
     "state": "MI",
-    "venueName": "Little Caesars Arena"
+    "venueName": "Little Caesars Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/littlecaesarsarena"
   },
   "loandepot_park": {
     "updated": "",
@@ -1984,7 +2128,8 @@
     "officialConcessionsUrl": "https://www.mlb.com/marlins/ballpark/food",
     "city": "Miami",
     "state": "FL",
-    "venueName": "LoanDepot Park"
+    "venueName": "LoanDepot Park",
+    "guideUrl": "https://concerto-concessions.netlify.app/loandepotpark"
   },
   "lotto_arena": {
     "updated": "",
@@ -1993,7 +2138,8 @@
     "officialConcessionsUrl": "https://www.lotto-arena.be/plan-je-bezoek/eten-en-drinken",
     "city": "Antwerp",
     "state": "",
-    "venueName": "Lotto Arena"
+    "venueName": "Lotto Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/lottoarena"
   },
   "lucas_oil_stadium": {
     "updated": "2026-02-25T13:52:56-05:00",
@@ -2002,7 +2148,8 @@
     "officialConcessionsUrl": "https://www.lucasoilstadium.com/attending-an-event/concessions/",
     "city": "Indianapolis",
     "state": "IN",
-    "venueName": "Lucas Oil Stadium"
+    "venueName": "Lucas Oil Stadium",
+    "guideUrl": "https://concerto-concessions.netlify.app/lucasoilstadium"
   },
   "lumen_field": {
     "updated": "",
@@ -2026,7 +2173,8 @@
     "officialConcessionsUrl": "https://www.lumenfield.com/plan-your-visit/concessions-guide",
     "city": "Seattle",
     "state": "WA",
-    "venueName": "Lumen Field"
+    "venueName": "Lumen Field",
+    "guideUrl": "https://concerto-concessions.netlify.app/lumenfield"
   },
   "madison_square_garden": {
     "updated": "",
@@ -2035,7 +2183,8 @@
     "officialConcessionsUrl": "https://www.msg.com/madison-square-garden/food-drink",
     "city": "New York",
     "state": "NY",
-    "venueName": "Madison Square Garden"
+    "venueName": "Madison Square Garden",
+    "guideUrl": "https://concerto-concessions.netlify.app/madisonsquaregarden"
   },
   "manchester_academy": {
     "updated": "",
@@ -2044,7 +2193,8 @@
     "officialConcessionsUrl": "https://www.manchesteracademy.net/files/manchester_club_academy_venue_information_technical_specifications_v2.pdf",
     "city": "Manchester",
     "state": "",
-    "venueName": "Manchester Academy"
+    "venueName": "Manchester Academy",
+    "guideUrl": "https://concerto-concessions.netlify.app/manchesteracademy"
   },
   "manhattan_center_hammerstein_ballroom": {
     "updated": "",
@@ -2053,7 +2203,8 @@
     "officialConcessionsUrl": "https://www.themanhattancenter.com/public-events-faqs/",
     "city": "New York",
     "state": "NY",
-    "venueName": "Manhattan Center Hammerstein Ballroom"
+    "venueName": "Manhattan Center Hammerstein Ballroom",
+    "guideUrl": "https://concerto-concessions.netlify.app/manhattancenterhammersteinballroom"
   },
   "marx_halle": {
     "updated": "",
@@ -2062,7 +2213,8 @@
     "officialConcessionsUrl": "https://www.visitingvienna.com/entertainment/marx-halle/",
     "city": "Vienna",
     "state": "",
-    "venueName": "Marx Halle"
+    "venueName": "Marx Halle",
+    "guideUrl": "https://concerto-concessions.netlify.app/marxhalle"
   },
   "maverik_center": {
     "updated": "",
@@ -2078,7 +2230,8 @@
     "officialConcessionsUrl": "https://www.maverikcenter.com/plan-your-visit/food-beverage/",
     "city": "West Valley City",
     "state": "UT",
-    "venueName": "Maverik Center"
+    "venueName": "Maverik Center",
+    "guideUrl": "https://concerto-concessions.netlify.app/maverikcenter"
   },
   "mt_bank_stadium": {
     "updated": "2025-09-02",
@@ -2089,7 +2242,8 @@
     "officialConcessionsUrl": "https://www.baltimoreravens.com/news/ravens-mt-bank-stadium-flock-friendly-concession-pricing-2025",
     "city": "Baltimore",
     "state": "MD",
-    "venueName": "M&T Bank Stadium"
+    "venueName": "M&T Bank Stadium",
+    "guideUrl": "https://concerto-concessions.netlify.app/mtbankstadium"
   },
   "mercedesbenz_stadium": {
     "updated": "",
@@ -2098,7 +2252,8 @@
     "officialConcessionsUrl": "https://www.mercedesbenzstadium.com/menus/atl-fan-fare",
     "city": "Atlanta",
     "state": "GA",
-    "venueName": "Mercedes-Benz Stadium"
+    "venueName": "Mercedes-Benz Stadium",
+    "guideUrl": "https://concerto-concessions.netlify.app/mercedesbenzstadium"
   },
   "merriweather_post_pavilion": {
     "updated": "",
@@ -2107,7 +2262,8 @@
     "officialConcessionsUrl": "https://merriweathermusic.com/food-and-beverage/",
     "city": "Columbia",
     "state": "MD",
-    "venueName": "Merriweather Post Pavilion"
+    "venueName": "Merriweather Post Pavilion",
+    "guideUrl": "https://concerto-concessions.netlify.app/merriweatherpostpavilion"
   },
   "metlife_stadium": {
     "updated": "",
@@ -2116,7 +2272,8 @@
     "officialConcessionsUrl": "https://www.metlifestadium.com/plan-your-visit/a-z-guide",
     "city": "East Rutherford",
     "state": "NJ",
-    "venueName": "MetLife Stadium"
+    "venueName": "MetLife Stadium",
+    "guideUrl": "https://concerto-concessions.netlify.app/metlifestadium"
   },
   "mgm_music_hall_at_fenway": {
     "updated": "",
@@ -2125,7 +2282,8 @@
     "officialConcessionsUrl": "https://crossroadspresents.com/pages/events",
     "city": "Boston",
     "state": "MA",
-    "venueName": "MGM Music Hall at Fenway"
+    "venueName": "MGM Music Hall at Fenway",
+    "guideUrl": "https://concerto-concessions.netlify.app/mgmmusichallatfenway"
   },
   "moda_center": {
     "updated": "",
@@ -2153,7 +2311,8 @@
     "officialConcessionsUrl": "https://www.rosequarter.com/plan-your-visit/concessions-guide",
     "city": "Portland",
     "state": "OR",
-    "venueName": "Moda Center"
+    "venueName": "Moda Center",
+    "guideUrl": "https://concerto-concessions.netlify.app/modacenter"
   },
   "mohegan_sun_arena": {
     "updated": "",
@@ -2162,7 +2321,8 @@
     "officialConcessionsUrl": "https://mohegansun.com/about-mohegan-sun/faq-entertainment.html",
     "city": "Uncasville",
     "state": "CT",
-    "venueName": "Mohegan Sun Arena"
+    "venueName": "Mohegan Sun Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/mohegansunarena"
   },
   "moody_center": {
     "updated": "",
@@ -2177,7 +2337,8 @@
     "officialConcessionsUrl": "https://moodycenteratx.com/food-beverage/",
     "city": "Austin",
     "state": "TX",
-    "venueName": "Moody Center"
+    "venueName": "Moody Center",
+    "guideUrl": "https://concerto-concessions.netlify.app/moodycenter"
   },
   "mortgage_matchup_center": {
     "updated": "",
@@ -2186,7 +2347,8 @@
     "officialConcessionsUrl": "https://mortgagematchupcenter.com/venue/food-and-beverage/",
     "city": "Phoenix",
     "state": "AZ",
-    "venueName": "Mortgage Matchup Center"
+    "venueName": "Mortgage Matchup Center",
+    "guideUrl": "https://concerto-concessions.netlify.app/mortgagematchupcenter"
   },
   "movistar_arena": {
     "updated": "",
@@ -2201,7 +2363,8 @@
     "officialConcessionsUrl": "https://www.movistararena.es/restauracion",
     "city": "Madrid",
     "state": "",
-    "venueName": "Movistar Arena"
+    "venueName": "Movistar Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/movistararena"
   },
   "mvp_arena": {
     "updated": "",
@@ -2210,16 +2373,18 @@
     "officialConcessionsUrl": "https://www.mvparena.com/faqs",
     "city": "Albany",
     "state": "NY",
-    "venueName": "MVP Arena"
+    "venueName": "MVP Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/mvparena"
   },
   "myticket_jahrhunderthalle": {
     "updated": "",
-    "note": "The myticket Jahrhunderthalle offers a variety of food and drink options through its partner Food Affairs, including soft drinks, fine wines, and a selection of spirits. Guests can enjoy Braust\u00fcbl\u00b4 beer from the Darmst\u00e4dter Privatbrauerei. Premium Lounge guests have access to a fine-dining buffet with corresponding drinks.",
+    "note": "The myticket Jahrhunderthalle offers a variety of food and drink options through its partner Food Affairs, including soft drinks, fine wines, and a selection of spirits. Guests can enjoy Braustübl´ beer from the Darmstädter Privatbrauerei. Premium Lounge guests have access to a fine-dining buffet with corresponding drinks.",
     "stands": [],
     "officialConcessionsUrl": "https://www.myticket-jahrhunderthalle.de/besuch/gastronomie",
     "city": "Frankfurt am Main",
     "state": "",
-    "venueName": "myticket Jahrhunderthalle"
+    "venueName": "myticket Jahrhunderthalle",
+    "guideUrl": "https://concerto-concessions.netlify.app/myticketjahrhunderthalle"
   },
   "nationals_park": {
     "updated": "",
@@ -2234,7 +2399,8 @@
     "officialConcessionsUrl": "https://www.mlb.com/athletics/ballpark/food-and-beverage",
     "city": "Washington",
     "state": "DC",
-    "venueName": "Nationals Park"
+    "venueName": "Nationals Park",
+    "guideUrl": "https://concerto-concessions.netlify.app/nationalspark"
   },
   "nationwide_arena": {
     "updated": "",
@@ -2243,36 +2409,38 @@
     "officialConcessionsUrl": "https://www.nationwidearena.com/a-z-guide",
     "city": "Columbus",
     "state": "OH",
-    "venueName": "Nationwide Arena"
+    "venueName": "Nationwide Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/nationwidearena"
   },
   "nissan_stadium": {
     "updated": "",
-    "note": "Nissan Stadium offers a wide variety of food and beverage options including burgers, chicken tenders, hot dogs, and local specialties like Hattie B\u2019s Hot Chicken. Beverage options include Coke products, alcoholic beverages, and specialty cocktails. Unique offerings include the Burger of the Game featuring local Nashville restaurants and desserts like Dippin' Dots and Ben & Jerry\u2019s ice cream.",
+    "note": "Nissan Stadium offers a wide variety of food and beverage options including burgers, chicken tenders, hot dogs, and local specialties like Hattie B’s Hot Chicken. Beverage options include Coke products, alcoholic beverages, and specialty cocktails. Unique offerings include the Burger of the Game featuring local Nashville restaurants and desserts like Dippin' Dots and Ben & Jerry’s ice cream.",
     "stands": [
       "2nd Street Kitchen",
       "8th & Roast Coffee",
       "Action Station Table",
-      "Ben & Jerry\u2019s",
+      "Ben & Jerry’s",
       "Bud Light",
       "Burger of the Game feat. Local Nashville Restaurant",
       "Canned Beer Cart",
       "Classic Hits",
       "Cumberland River Grill",
-      "Daddy\u2019s Dogs",
-      "Dippin\u2019 Dots, Funnel Cakes and Lemonade",
+      "Daddy’s Dogs",
+      "Dippin’ Dots, Funnel Cakes and Lemonade",
       "Draft",
       "Fireball Fiesta",
       "Hall of Flame",
-      "Hattie B\u2019s Hot Chicken",
+      "Hattie B’s Hot Chicken",
       "ICEE",
-      "Jack Daniel\u2019s",
-      "Jack Daniel\u2019s Airstream",
-      "Jack Daniel\u2019s Bar"
+      "Jack Daniel’s",
+      "Jack Daniel’s Airstream",
+      "Jack Daniel’s Bar"
     ],
     "officialConcessionsUrl": "https://nissanstadium.com/concessions/",
     "city": "Nashville",
     "state": "TN",
-    "venueName": "Nissan Stadium"
+    "venueName": "Nissan Stadium",
+    "guideUrl": "https://concerto-concessions.netlify.app/nissanstadium"
   },
   "north_island_credit_union_amphitheatre": {
     "updated": "",
@@ -2281,7 +2449,8 @@
     "officialConcessionsUrl": "https://www.northislandcreditunionamp.com/know-before-you-go",
     "city": "Chula Vista",
     "state": "CA",
-    "venueName": "North Island Credit Union Amphitheatre"
+    "venueName": "North Island Credit Union Amphitheatre",
+    "guideUrl": "https://concerto-concessions.netlify.app/northislandcreditunionamphitheatre"
   },
   "nrg_stadium": {
     "updated": "",
@@ -2290,7 +2459,8 @@
     "officialConcessionsUrl": "https://www.nrgpark.com/accessibility-guide/",
     "city": "Houston",
     "state": "TX",
-    "venueName": "NRG Stadium"
+    "venueName": "NRG Stadium",
+    "guideUrl": "https://concerto-concessions.netlify.app/nrgstadium"
   },
   "oakland_arena": {
     "updated": "",
@@ -2301,7 +2471,8 @@
     "officialConcessionsUrl": "https://www.theoaklandarena.com/eat-drink",
     "city": "Oakland",
     "state": "CA",
-    "venueName": "Oakland Arena"
+    "venueName": "Oakland Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/oaklandarena"
   },
   "oracle_park": {
     "updated": "",
@@ -2316,7 +2487,8 @@
     "officialConcessionsUrl": "https://www.mlb.com/athletics/ballpark/food-and-beverage",
     "city": "San Francisco",
     "state": "CA",
-    "venueName": "Oracle Park"
+    "venueName": "Oracle Park",
+    "guideUrl": "https://concerto-concessions.netlify.app/oraclepark"
   },
   "oriole_park_at_camden_yards": {
     "updated": "",
@@ -2331,7 +2503,8 @@
     "officialConcessionsUrl": "https://www.mlb.com/athletics/ballpark/food-and-beverage",
     "city": "Baltimore",
     "state": "MD",
-    "venueName": "Oriole Park at Camden Yards"
+    "venueName": "Oriole Park at Camden Yards",
+    "guideUrl": "https://concerto-concessions.netlify.app/orioleparkatcamdenyards"
   },
   "o2_academy_birmingham": {
     "updated": "",
@@ -2340,22 +2513,24 @@
     "officialConcessionsUrl": "https://www.academymusicgroup.com/o2academybirmingham/faqs",
     "city": "Birmingham",
     "state": "",
-    "venueName": "O2 Academy Birmingham"
+    "venueName": "O2 Academy Birmingham",
+    "guideUrl": "https://concerto-concessions.netlify.app/o2academybirmingham"
   },
   "o2_shepherds_bush_empire": {
     "updated": "",
-    "note": "The O2 Shepherds Bush Empire offers a variety of nearby dining options, including Italian, Polish, and Oriental cuisines. Special offers include a 3-course meal for \u00a315 at Tatra Restaurant for ticket holders. The Sindercombe Social offers 2-4-1 burgers on Tuesdays and a Sunday roast.",
+    "note": "The O2 Shepherds Bush Empire offers a variety of nearby dining options, including Italian, Polish, and Oriental cuisines. Special offers include a 3-course meal for £15 at Tatra Restaurant for ticket holders. The Sindercombe Social offers 2-4-1 burgers on Tuesdays and a Sunday roast.",
     "stands": [],
     "officialConcessionsUrl": "https://allmusicmagazine.com/uk/venues/o2-shepherds-bush-empire/",
     "city": "London",
     "state": "",
-    "venueName": "O2 Shepherds Bush Empire"
+    "venueName": "O2 Shepherds Bush Empire",
+    "guideUrl": "https://concerto-concessions.netlify.app/o2shepherdsbushempire"
   },
   "ohio_stadium": {
     "updated": "",
     "note": "Ohio Stadium offers a wide variety of food and drink options, including fan favorites like hot dogs, bratwurst, and nachos, as well as local specialties such as Hot Chicken Takeover and Barrio. Mobile ordering is available at all permanent stands, allowing fans to skip the line and enjoy their meals faster.",
     "stands": [
-      "BRUTUS\u2019 BEST",
+      "BRUTUS’ BEST",
       "DONATOS",
       "PANERA",
       "BUCKEYE BBQ",
@@ -2386,7 +2561,8 @@
     "officialConcessionsUrl": "https://ohiostatebuckeyes.com/sports/2022/8/17/food",
     "city": "Columbus",
     "state": "OH",
-    "venueName": "Ohio Stadium"
+    "venueName": "Ohio Stadium",
+    "guideUrl": "https://concerto-concessions.netlify.app/ohiostadium"
   },
   "olympiahalle": {
     "updated": "",
@@ -2400,7 +2576,8 @@
     "officialConcessionsUrl": "https://www.olympiapark.de/en/tours-sightseeing/restaurants",
     "city": "Munich",
     "state": "",
-    "venueName": "Olympiahalle"
+    "venueName": "Olympiahalle",
+    "guideUrl": "https://concerto-concessions.netlify.app/olympiahalle"
   },
   "olympiastadion": {
     "updated": "",
@@ -2409,7 +2586,8 @@
     "officialConcessionsUrl": "https://olympiastadion.berlin/en/partner_patrons/aramark/",
     "city": "Berlin",
     "state": "",
-    "venueName": "Olympiastadion"
+    "venueName": "Olympiastadion",
+    "guideUrl": "https://concerto-concessions.netlify.app/olympiastadion"
   },
   "ovo_hydro": {
     "updated": "",
@@ -2418,7 +2596,8 @@
     "officialConcessionsUrl": "https://www.ovohydro.com/floorplans",
     "city": "Glasgow",
     "state": "",
-    "venueName": "OVO Hydro"
+    "venueName": "OVO Hydro",
+    "guideUrl": "https://concerto-concessions.netlify.app/ovohydro"
   },
   "palacio_de_los_deportes": {
     "updated": "",
@@ -2427,7 +2606,8 @@
     "officialConcessionsUrl": "https://www.palaciodelosdeportes.mx/",
     "city": "Mexico City",
     "state": "",
-    "venueName": "Palacio de los Deportes"
+    "venueName": "Palacio de los Deportes",
+    "guideUrl": "https://concerto-concessions.netlify.app/palaciodelosdeportes"
   },
   "palau_sant_jordi": {
     "updated": "",
@@ -2436,7 +2616,8 @@
     "officialConcessionsUrl": "https://palausantjordi.barcelona/en/information/bars",
     "city": "Barcelona",
     "state": "",
-    "venueName": "Palau Sant Jordi"
+    "venueName": "Palau Sant Jordi",
+    "guideUrl": "https://concerto-concessions.netlify.app/palausantjordi"
   },
   "paramount_theatre": {
     "updated": "",
@@ -2445,7 +2626,8 @@
     "officialConcessionsUrl": "https://www.stgpresents.org/theatres/restaurants/restaurants-near-the-paramount/",
     "city": "Seattle",
     "state": "WA",
-    "venueName": "Paramount Theatre"
+    "venueName": "Paramount Theatre",
+    "guideUrl": "https://concerto-concessions.netlify.app/paramounttheatre"
   },
   "paycom_center": {
     "updated": "",
@@ -2464,7 +2646,8 @@
     "officialConcessionsUrl": "https://www.paycomcenter.com/plan-your-visit/concessions",
     "city": "Oklahoma City",
     "state": "OK",
-    "venueName": "Paycom Center"
+    "venueName": "Paycom Center",
+    "guideUrl": "https://concerto-concessions.netlify.app/paycomcenter"
   },
   "paycor_stadium": {
     "updated": "",
@@ -2473,21 +2656,23 @@
     "officialConcessionsUrl": "https://www.bengals.com/stadium/concessions/menus/tlc",
     "city": "Cincinnati",
     "state": "OH",
-    "venueName": "Paycor Stadium"
+    "venueName": "Paycor Stadium",
+    "guideUrl": "https://concerto-concessions.netlify.app/paycorstadium"
   },
   "pechanga_arena": {
     "updated": "",
-    "note": "Pechanga Arena San Diego offers a variety of local food and beverage options, including Pizza Port and Nicolosi\u2019s Italian Restaurant. Beverage highlights include Cutwater Tequila and Just Enough Wines, providing a diverse selection of drinks throughout the concourse.",
+    "note": "Pechanga Arena San Diego offers a variety of local food and beverage options, including Pizza Port and Nicolosi’s Italian Restaurant. Beverage highlights include Cutwater Tequila and Just Enough Wines, providing a diverse selection of drinks throughout the concourse.",
     "stands": [
       "Pizza Port",
-      "Nicolosi\u2019s Italian Restaurant",
+      "Nicolosi’s Italian Restaurant",
       "Cutwater Tequila",
       "Just Enough Wines"
     ],
     "officialConcessionsUrl": "https://pechangaarenasd.com/plan-your-visit/concessions/",
     "city": "San Diego",
     "state": "CA",
-    "venueName": "Pechanga Arena"
+    "venueName": "Pechanga Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/pechangaarena"
   },
   "peoplesbank_arena": {
     "updated": "",
@@ -2514,7 +2699,8 @@
     "officialConcessionsUrl": "https://www.peoplesbankarena.com/plan-your-visit/concessions",
     "city": "Hartford",
     "state": "CT",
-    "venueName": "PeoplesBank Arena"
+    "venueName": "PeoplesBank Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/peoplesbankarena"
   },
   "petco_park": {
     "updated": "",
@@ -2529,7 +2715,8 @@
     "officialConcessionsUrl": "https://www.mlb.com/athletics/ballpark/food-and-beverage",
     "city": "San Diego",
     "state": "CA",
-    "venueName": "Petco Park"
+    "venueName": "Petco Park",
+    "guideUrl": "https://concerto-concessions.netlify.app/petcopark"
   },
   "petersen_events_center": {
     "updated": "",
@@ -2544,7 +2731,8 @@
     "officialConcessionsUrl": "https://www.peterseneventscenter.com/food-beverage",
     "city": "Pittsburgh",
     "state": "PA",
-    "venueName": "Petersen Events Center"
+    "venueName": "Petersen Events Center",
+    "guideUrl": "https://concerto-concessions.netlify.app/peterseneventscenter"
   },
   "phx_arena": {
     "updated": "",
@@ -2553,7 +2741,8 @@
     "officialConcessionsUrl": "https://mortgagematchupcenter.com/venue/food-and-beverage/",
     "city": "Phoenix",
     "state": "AZ",
-    "venueName": "PHX Arena"
+    "venueName": "PHX Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/phxarena"
   },
   "pnc_park": {
     "updated": "",
@@ -2568,7 +2757,8 @@
     "officialConcessionsUrl": "https://www.mlb.com/athletics/ballpark/food-and-beverage",
     "city": "Pittsburgh",
     "state": "PA",
-    "venueName": "PNC Park"
+    "venueName": "PNC Park",
+    "guideUrl": "https://concerto-concessions.netlify.app/pncpark"
   },
   "pnc_arena": {
     "updated": "",
@@ -2588,7 +2778,8 @@
     "officialConcessionsUrl": "https://www.lenovocenter.com/concessions",
     "city": "Raleigh",
     "state": "NC",
-    "venueName": "PNC Arena"
+    "venueName": "PNC Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/pncarena"
   },
   "pinnacle_bank_arena": {
     "updated": "",
@@ -2597,7 +2788,8 @@
     "officialConcessionsUrl": "https://www.pinnaclebankarena.com/plan-your-visit/food-beverage",
     "city": "Lincoln",
     "state": "NE",
-    "venueName": "Pinnacle Bank Arena"
+    "venueName": "Pinnacle Bank Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/pinnaclebankarena"
   },
   "ppg_paints_arena": {
     "updated": "",
@@ -2606,7 +2798,8 @@
     "officialConcessionsUrl": "https://www.ppgpaintsarena.com/ppg-paints-arena/concessions",
     "city": "Pittsburgh",
     "state": "PA",
-    "venueName": "PPG Paints Arena"
+    "venueName": "PPG Paints Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/ppgpaintsarena"
   },
   "progressive_field": {
     "updated": "",
@@ -2621,7 +2814,8 @@
     "officialConcessionsUrl": "https://www.mlb.com/athletics/ballpark/food-and-beverage",
     "city": "Cleveland",
     "state": "OH",
-    "venueName": "Progressive Field"
+    "venueName": "Progressive Field",
+    "guideUrl": "https://concerto-concessions.netlify.app/progressivefield"
   },
   "providence_park": {
     "updated": "",
@@ -2630,7 +2824,8 @@
     "officialConcessionsUrl": "https://www.timbers.com/providencepark/matchday/concessions",
     "city": "Portland",
     "state": "OR",
-    "venueName": "Providence Park"
+    "venueName": "Providence Park",
+    "guideUrl": "https://concerto-concessions.netlify.app/providencepark"
   },
   "prudential_center": {
     "updated": "",
@@ -2653,7 +2848,8 @@
     "officialConcessionsUrl": "https://www.prucenter.com/concessions",
     "city": "Newark",
     "state": "NJ",
-    "venueName": "Prudential Center"
+    "venueName": "Prudential Center",
+    "guideUrl": "https://concerto-concessions.netlify.app/prudentialcenter"
   },
   "rate_field": {
     "updated": "",
@@ -2668,7 +2864,8 @@
     "officialConcessionsUrl": "https://www.mlb.com/athletics/ballpark/food-and-beverage",
     "city": "Chicago",
     "state": "IL",
-    "venueName": "Rate Field"
+    "venueName": "Rate Field",
+    "guideUrl": "https://concerto-concessions.netlify.app/ratefield"
   },
   "raymond_james_stadium": {
     "updated": "",
@@ -2693,7 +2890,8 @@
     "officialConcessionsUrl": "https://www.buccaneers.com/stadium/gameday/food-beverage",
     "city": "Tampa",
     "state": "FL",
-    "venueName": "Raymond James Stadium"
+    "venueName": "Raymond James Stadium",
+    "guideUrl": "https://concerto-concessions.netlify.app/raymondjamesstadium"
   },
   "red_hat_amphitheater": {
     "updated": "",
@@ -2702,7 +2900,8 @@
     "officialConcessionsUrl": "https://www.redhatamphitheater.com/concessions",
     "city": "Raleigh",
     "state": "NC",
-    "venueName": "Red Hat Amphitheater"
+    "venueName": "Red Hat Amphitheater",
+    "guideUrl": "https://concerto-concessions.netlify.app/redhatamphitheater"
   },
   "red_rocks_amphitheatre": {
     "updated": "",
@@ -2716,13 +2915,14 @@
       "Machete Tequila + Tacos",
       "Maui Wowi",
       "Smashburger",
-      "Wyly\u2019s Fried Foods",
+      "Wyly’s Fried Foods",
       "Ship Rock Grille"
     ],
     "officialConcessionsUrl": "https://www.redrocksonline.com/plan-your-visit/eat-drink/",
     "city": "Morrison",
     "state": "CO",
-    "venueName": "Red Rocks Amphitheatre"
+    "venueName": "Red Rocks Amphitheatre",
+    "guideUrl": "https://concerto-concessions.netlify.app/redrocksamphitheatre"
   },
   "riyadh_air_metropolitano": {
     "updated": "",
@@ -2731,16 +2931,17 @@
     "officialConcessionsUrl": "https://www.atleticodemadrid.com/noticias/nuevo-1903-sport-bar-lounge-restaurant",
     "city": "Madrid",
     "state": "",
-    "venueName": "Riyadh Air Metropolitano"
+    "venueName": "Riyadh Air Metropolitano",
+    "guideUrl": "https://concerto-concessions.netlify.app/riyadhairmetropolitano"
   },
   "rocket_mortgage_fieldhouse": {
     "updated": "",
-    "note": "Rocket Mortgage FieldHouse offers a variety of food and beverage options across several bars and lounges. Highlights include the Great Lakes Experience taproom, Casamigos Tequila Bar, and the Jack Daniel\u2019s Bar, each providing unique drink selections. Fans can enjoy communal spaces and scenic views while indulging in signature cocktails and local brews.",
+    "note": "Rocket Mortgage FieldHouse offers a variety of food and beverage options across several bars and lounges. Highlights include the Great Lakes Experience taproom, Casamigos Tequila Bar, and the Jack Daniel’s Bar, each providing unique drink selections. Fans can enjoy communal spaces and scenic views while indulging in signature cocktails and local brews.",
     "stands": [
       "Great Lakes Experience",
       "Casamigos Tequila Bar",
       "West Neighborhood Bar",
-      "Jack Daniel\u2019s Bar",
+      "Jack Daniel’s Bar",
       "Crown Royal Bar",
       "Gilly's",
       "Corona Cantina",
@@ -2749,7 +2950,8 @@
     "officialConcessionsUrl": "https://www.rocketarena.com/plan-your-visit/bars",
     "city": "Cleveland",
     "state": "OH",
-    "venueName": "Rocket Mortgage FieldHouse"
+    "venueName": "Rocket Mortgage FieldHouse",
+    "guideUrl": "https://concerto-concessions.netlify.app/rocketmortgagefieldhouse"
   },
   "rocket_arena": {
     "updated": "",
@@ -2758,7 +2960,8 @@
     "officialConcessionsUrl": "https://www.mhnarena.com/p/visit/concessions-menu",
     "city": "Huntington",
     "state": "WV",
-    "venueName": "Rocket Arena"
+    "venueName": "Rocket Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/rocketarena"
   },
   "rogers_centre": {
     "updated": "",
@@ -2770,7 +2973,8 @@
     "officialConcessionsUrl": "https://www.mlb.com/bluejays/ballpark/food-and-beverage",
     "city": "Toronto",
     "state": "ON",
-    "venueName": "Rogers Centre"
+    "venueName": "Rogers Centre",
+    "guideUrl": "https://concerto-concessions.netlify.app/rogerscentre"
   },
   "rogers_place": {
     "updated": "",
@@ -2806,7 +3010,8 @@
     "officialConcessionsUrl": "https://www.rogersplace.com/food-finder/locations/",
     "city": "Edmonton",
     "state": "AB",
-    "venueName": "Rogers Place"
+    "venueName": "Rogers Place",
+    "guideUrl": "https://concerto-concessions.netlify.app/rogersplace"
   },
   "rogers_stadium": {
     "updated": "",
@@ -2815,7 +3020,8 @@
     "officialConcessionsUrl": "https://www.rogers-stadium.com/eat-and-drink",
     "city": "Toronto",
     "state": "ON",
-    "venueName": "Rogers Stadium"
+    "venueName": "Rogers Stadium",
+    "guideUrl": "https://concerto-concessions.netlify.app/rogersstadium"
   },
   "rupp_arena": {
     "updated": "",
@@ -2824,7 +3030,8 @@
     "officialConcessionsUrl": "https://www.rupparena.com/plan-your-visit/food-beverage",
     "city": "Lexington",
     "state": "KY",
-    "venueName": "Rupp Arena"
+    "venueName": "Rupp Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/rupparena"
   },
   "o2_arena": {
     "updated": "",
@@ -2835,7 +3042,8 @@
     "officialConcessionsUrl": "https://www.o2arena.cz/en/for-visitors/restaurants/",
     "city": "Prague",
     "state": "",
-    "venueName": "O2 Arena"
+    "venueName": "O2 Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/o2arena"
   },
   "rogers_arena": {
     "updated": "",
@@ -2844,7 +3052,8 @@
     "officialConcessionsUrl": "https://rogersarena.com/food-and-beverage-options/",
     "city": "Vancouver",
     "state": "BC",
-    "venueName": "Rogers Arena"
+    "venueName": "Rogers Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/rogersarena"
   },
   "ryman_auditorium": {
     "updated": "",
@@ -2853,7 +3062,8 @@
     "officialConcessionsUrl": "https://www.ryman.com/plan-your-visit/know-before-you-go/places-to-eat",
     "city": "Nashville",
     "state": "TN",
-    "venueName": "Ryman Auditorium"
+    "venueName": "Ryman Auditorium",
+    "guideUrl": "https://concerto-concessions.netlify.app/rymanauditorium"
   },
   "sap_center": {
     "updated": "2019-09-17",
@@ -2872,7 +3082,8 @@
     "officialConcessionsUrl": "https://www.sapcenter.com/news/detail/1920foodconcepts",
     "city": "San Jose",
     "state": "CA",
-    "venueName": "SAP Center"
+    "venueName": "SAP Center",
+    "guideUrl": "https://concerto-concessions.netlify.app/sapcenter"
   },
   "save_mart_center": {
     "updated": "",
@@ -2881,7 +3092,8 @@
     "officialConcessionsUrl": "https://www.savemartcenter.com/venue-info/accessibility/",
     "city": "Fresno",
     "state": "CA",
-    "venueName": "Save Mart Center"
+    "venueName": "Save Mart Center",
+    "guideUrl": "https://concerto-concessions.netlify.app/savemartcenter"
   },
   "schottenstein_center": {
     "updated": "",
@@ -2890,7 +3102,8 @@
     "officialConcessionsUrl": "https://www.schottensteincenter.com/a-z-guide",
     "city": "Columbus",
     "state": "OH",
-    "venueName": "Schottenstein Center"
+    "venueName": "Schottenstein Center",
+    "guideUrl": "https://concerto-concessions.netlify.app/schottensteincenter"
   },
   "scotiabank_arena": {
     "updated": "",
@@ -2919,13 +3132,14 @@
     "officialConcessionsUrl": "https://www.scotiabankarena.com/plan-your-visit/food-beverage/food-concessions",
     "city": "Toronto",
     "state": "ON",
-    "venueName": "Scotiabank Arena"
+    "venueName": "Scotiabank Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/scotiabankarena"
   },
   "scotiabank_saddledome": {
     "updated": "",
     "note": "The Scotiabank Saddledome offers a diverse range of food and beverage options, including classic concessions like popcorn and hot dogs, specialty items such as the Shorty short rib sandwich, and dietary options like vegan meals. Notable highlights include the Fireball Whisky Bar, Tacos and Tequila, and the Coca-Cola Test Kitchen with unique monthly culinary concepts.",
     "stands": [
-      "Shorty\u2019s",
+      "Shorty’s",
       "Fireball Whisky Bar",
       "Caesarville",
       "Wine Bar",
@@ -2951,7 +3165,8 @@
     "officialConcessionsUrl": "https://www.scotiabanksaddledome.com/concourse/",
     "city": "Calgary",
     "state": "AB",
-    "venueName": "Scotiabank Saddledome"
+    "venueName": "Scotiabank Saddledome",
+    "guideUrl": "https://concerto-concessions.netlify.app/scotiabanksaddledome"
   },
   "scottish_gas_murrayfield": {
     "updated": "",
@@ -2960,7 +3175,8 @@
     "officialConcessionsUrl": "https://edinburgh.org/point-of-interest/scottish-gas-murrayfield-stadium/",
     "city": "Edinburgh",
     "state": "",
-    "venueName": "Scottish Gas Murrayfield"
+    "venueName": "Scottish Gas Murrayfield",
+    "guideUrl": "https://concerto-concessions.netlify.app/scottishgasmurrayfield"
   },
   "shoreline_amphitheatre": {
     "updated": "",
@@ -2975,7 +3191,8 @@
     "officialConcessionsUrl": "https://www.shorelineamphitheatre.com/bites",
     "city": "Mountain View",
     "state": "CA",
-    "venueName": "Shoreline Amphitheatre"
+    "venueName": "Shoreline Amphitheatre",
+    "guideUrl": "https://concerto-concessions.netlify.app/shorelineamphitheatre"
   },
   "simmons_bank_arena": {
     "updated": "",
@@ -2984,7 +3201,8 @@
     "officialConcessionsUrl": "https://simmonsbankarena.com/policies-guidelines/",
     "city": "North Little Rock",
     "state": "AR",
-    "venueName": "Simmons Bank Arena"
+    "venueName": "Simmons Bank Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/simmonsbankarena"
   },
   "skyline_stage_at_the_mann": {
     "updated": "",
@@ -2993,7 +3211,8 @@
     "officialConcessionsUrl": "https://highmarkmann.org/sites/default/files/2023-07/Crescendo%202023%20Food%20&%20Drink%20Menu.pdf",
     "city": "Philadelphia",
     "state": "PA",
-    "venueName": "Skyline Stage at the Mann"
+    "venueName": "Skyline Stage at the Mann",
+    "guideUrl": "https://concerto-concessions.netlify.app/skylinestageatthemann"
   },
   "snhu_arena": {
     "updated": "",
@@ -3002,14 +3221,15 @@
     "officialConcessionsUrl": "https://www.snhuarena.com/premium-experiences",
     "city": "Manchester",
     "state": "NH",
-    "venueName": "SNHU Arena"
+    "venueName": "SNHU Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/snhuarena"
   },
   "smoothie_king_center": {
     "updated": "",
     "note": "Smoothie King Center offers a variety of food and beverage options including smoothies, Cajun dishes, ice cream, and classic concession stand items like hot dogs and popcorn. Beverage options feature a selection of cocktails, wines, and beers. Notably, only card transactions are accepted.",
     "stands": [
       "Smoothie King",
-      "BBB\u2019s Cajun Corner",
+      "BBB’s Cajun Corner",
       "Mini Melts",
       "Tip Off",
       "Allstar Lemonade",
@@ -3018,7 +3238,8 @@
     "officialConcessionsUrl": "https://www.smoothiekingcenter.com/plan-your-visit/food-and-beverage",
     "city": "New Orleans",
     "state": "LA",
-    "venueName": "Smoothie King Center"
+    "venueName": "Smoothie King Center",
+    "guideUrl": "https://concerto-concessions.netlify.app/smoothiekingcenter"
   },
   "sofi_stadium": {
     "updated": "",
@@ -3027,7 +3248,8 @@
     "officialConcessionsUrl": "https://www.sofistadium.com/plan-your-visit/dining-guide",
     "city": "Inglewood",
     "state": "CA",
-    "venueName": "SoFi Stadium"
+    "venueName": "SoFi Stadium",
+    "guideUrl": "https://concerto-concessions.netlify.app/sofistadium"
   },
   "soldier_field": {
     "updated": "",
@@ -3036,11 +3258,12 @@
     "officialConcessionsUrl": "https://www.soldierfield.com/plan-your-visit/a-z-guide",
     "city": "Chicago",
     "state": "IL",
-    "venueName": "Soldier Field"
+    "venueName": "Soldier Field",
+    "guideUrl": "https://concerto-concessions.netlify.app/soldierfield"
   },
   "spectrum_center": {
     "updated": "February 6, 2026",
-    "note": "Hugo\u2019s Hive Menu offers fan-favorite concessions at $2 each, including hot dogs, pretzel bites, popcorn, bottled water, and soda. This initiative aims to provide affordable food options during Hornets games.",
+    "note": "Hugo’s Hive Menu offers fan-favorite concessions at $2 each, including hot dogs, pretzel bites, popcorn, bottled water, and soda. This initiative aims to provide affordable food options during Hornets games.",
     "stands": [
       "704 Kitchen",
       "Trade Street Tacos",
@@ -3050,7 +3273,8 @@
     "officialConcessionsUrl": "https://www.spectrumcentercharlotte.com/news/detail/charlotte-hornets-introduce-hugos-hive-menu",
     "city": "Charlotte",
     "state": "NC",
-    "venueName": "Spectrum Center"
+    "venueName": "Spectrum Center",
+    "guideUrl": "https://concerto-concessions.netlify.app/spectrumcenter"
   },
   "sphere": {
     "updated": "",
@@ -3060,8 +3284,8 @@
       "Taphouse",
       "Cantina",
       "Circle Bar",
-      "Element Caf\u00e9 East",
-      "Element Caf\u00e9 West",
+      "Element Café East",
+      "Element Café West",
       "Sphere Express",
       "Radius Bar East",
       "Radius Bar West",
@@ -3070,7 +3294,8 @@
     "officialConcessionsUrl": "https://www.thesphere.com/plan-your-visit/food-and-beverage",
     "city": "Las Vegas",
     "state": "NV",
-    "venueName": "Sphere"
+    "venueName": "Sphere",
+    "guideUrl": "https://concerto-concessions.netlify.app/sphere"
   },
   "sse_arena_belfast": {
     "updated": "",
@@ -3079,7 +3304,8 @@
     "officialConcessionsUrl": "https://www.ssearenabelfast.com/suites-lounges/share-a-suite",
     "city": "Belfast",
     "state": "",
-    "venueName": "SSE Arena Belfast"
+    "venueName": "SSE Arena Belfast",
+    "guideUrl": "https://concerto-concessions.netlify.app/ssearenabelfast"
   },
   "stade_de_france": {
     "updated": "",
@@ -3088,7 +3314,8 @@
     "officialConcessionsUrl": "https://www.stadefrance.com/en",
     "city": "Paris",
     "state": "",
-    "venueName": "Stade de France"
+    "venueName": "Stade de France",
+    "guideUrl": "https://concerto-concessions.netlify.app/stadedefrance"
   },
   "stadio_san_siro": {
     "updated": "",
@@ -3097,7 +3324,8 @@
     "officialConcessionsUrl": "https://www.sansirostadium.com/notizia/food-service-award-2019-san-siro",
     "city": "Milan",
     "state": "",
-    "venueName": "Stadio San Siro"
+    "venueName": "Stadio San Siro",
+    "guideUrl": "https://concerto-concessions.netlify.app/stadiosansiro"
   },
   "stadtpark_open_air": {
     "updated": "",
@@ -3106,7 +3334,8 @@
     "officialConcessionsUrl": "https://www.stadtparkopenair.de/veranstaltung/deine-freunde/",
     "city": "Hamburg",
     "state": "",
-    "venueName": "Stadtpark Open Air"
+    "venueName": "Stadtpark Open Air",
+    "guideUrl": "https://concerto-concessions.netlify.app/stadtparkopenair"
   },
   "starlight_theatre": {
     "updated": "",
@@ -3119,7 +3348,8 @@
     "officialConcessionsUrl": "https://www.kcstarlight.com/visit-starlight/concessions-at-starlight/",
     "city": "Kansas City",
     "state": "MO",
-    "venueName": "Starlight Theatre"
+    "venueName": "Starlight Theatre",
+    "guideUrl": "https://concerto-concessions.netlify.app/starlighttheatre"
   },
   "state_farm_arena": {
     "updated": "",
@@ -3132,7 +3362,8 @@
     "officialConcessionsUrl": "https://www.statefarmarena.com/plan-your-visit/food-beverage",
     "city": "Atlanta",
     "state": "GA",
-    "venueName": "State Farm Arena"
+    "venueName": "State Farm Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/statefarmarena"
   },
   "state_farm_stadium": {
     "updated": "",
@@ -3153,7 +3384,8 @@
     "officialConcessionsUrl": "https://www.statefarmstadium.com/food-and-beverage-menu-guide",
     "city": "Glendale",
     "state": "AZ",
-    "venueName": "State Farm Stadium"
+    "venueName": "State Farm Stadium",
+    "guideUrl": "https://concerto-concessions.netlify.app/statefarmstadium"
   },
   "summit_music_hall": {
     "updated": "",
@@ -3164,7 +3396,8 @@
     "officialConcessionsUrl": "https://www.summitdenver.com/visit",
     "city": "Denver",
     "state": "CO",
-    "venueName": "Summit Music Hall"
+    "venueName": "Summit Music Hall",
+    "guideUrl": "https://concerto-concessions.netlify.app/summitmusichall"
   },
   "sun_bowl_stadium": {
     "updated": "",
@@ -3173,7 +3406,8 @@
     "officialConcessionsUrl": "https://www.utepspecialevents.com/venues/don_haskins_center",
     "city": "El Paso",
     "state": "TX",
-    "venueName": "Sun Bowl Stadium"
+    "venueName": "Sun Bowl Stadium",
+    "guideUrl": "https://concerto-concessions.netlify.app/sunbowlstadium"
   },
   "synovus_bank_amphitheater_at_chastain_park": {
     "updated": "",
@@ -3182,16 +3416,17 @@
     "officialConcessionsUrl": "https://www.livenation.com/venues",
     "city": "Atlanta",
     "state": "GA",
-    "venueName": "Synovus Bank Amphitheater at Chastain Park"
+    "venueName": "Synovus Bank Amphitheater at Chastain Park",
+    "guideUrl": "https://concerto-concessions.netlify.app/synovusbankamphitheateratchastainpark"
   },
   "target_center": {
     "updated": "",
-    "note": "Target Center offers a diverse range of food options, including new stands and traditional favorites. Highlights include chef-driven dishes, local ingredients, and unique offerings like the French Onion Dog, S\u2019more Nachos, and a variety of international and comfort foods.",
+    "note": "Target Center offers a diverse range of food options, including new stands and traditional favorites. Highlights include chef-driven dishes, local ingredients, and unique offerings like the French Onion Dog, S’more Nachos, and a variety of international and comfort foods.",
     "stands": [
       "106 Fan Classics / Frozen Spoon",
       "109 Chicken Shack",
       "111 Loon Lake",
-      "118 Bibigo / Ben\u2019s Pretzels / Maui Wowi & Cold Stone",
+      "118 Bibigo / Ben’s Pretzels / Maui Wowi & Cold Stone",
       "126 Next Up Kitchen / Walking Taco / Rolling Smoke",
       "129 Northwood Diner",
       "133 Mac Time",
@@ -3200,13 +3435,14 @@
       "205 / 213 / 235 Minneapolis Market",
       "209 / 227 Minneapolis Market",
       "211 / 231 Fan Classics & Chicken Shack",
-      "222 Jack Link\u2019s Popcorn",
+      "222 Jack Link’s Popcorn",
       "225 Northwood Diner"
     ],
     "officialConcessionsUrl": "https://www.targetcenter.com/food-drink-1/concessions",
     "city": "Minneapolis",
     "state": "MN",
-    "venueName": "Target Center"
+    "venueName": "Target Center",
+    "guideUrl": "https://concerto-concessions.netlify.app/targetcenter"
   },
   "target_field": {
     "updated": "",
@@ -3221,7 +3457,8 @@
     "officialConcessionsUrl": "https://www.mlb.com/athletics/ballpark/food-and-beverage",
     "city": "Minneapolis",
     "state": "MN",
-    "venueName": "Target Field"
+    "venueName": "Target Field",
+    "guideUrl": "https://concerto-concessions.netlify.app/targetfield"
   },
   "td_coliseum": {
     "updated": "",
@@ -3238,7 +3475,8 @@
     "officialConcessionsUrl": "https://www.tdcoliseum.com/plan-your-visit/food-beverage",
     "city": "Hamilton",
     "state": "ON",
-    "venueName": "TD Coliseum"
+    "venueName": "TD Coliseum",
+    "guideUrl": "https://concerto-concessions.netlify.app/tdcoliseum"
   },
   "td_garden": {
     "updated": "",
@@ -3270,7 +3508,8 @@
     "officialConcessionsUrl": "https://www.tdgarden.com/plan-your-visit/concessions",
     "city": "Boston",
     "state": "MA",
-    "venueName": "TD Garden"
+    "venueName": "TD Garden",
+    "guideUrl": "https://concerto-concessions.netlify.app/tdgarden"
   },
   "the_anthem": {
     "updated": "",
@@ -3279,7 +3518,8 @@
     "officialConcessionsUrl": "https://theanthemdc.com/food-beverage/",
     "city": "Washington",
     "state": "DC",
-    "venueName": "The Anthem"
+    "venueName": "The Anthem",
+    "guideUrl": "https://concerto-concessions.netlify.app/theanthem"
   },
   "the_armory": {
     "updated": "",
@@ -3288,7 +3528,8 @@
     "officialConcessionsUrl": "https://www.reddit.com/r/TwinCities/comments/z20840/food_at_the_armory_in_minneapolis/",
     "city": "Minneapolis",
     "state": "MN",
-    "venueName": "The Armory"
+    "venueName": "The Armory",
+    "guideUrl": "https://concerto-concessions.netlify.app/thearmory"
   },
   "the_danforth_music_hall": {
     "updated": "",
@@ -3297,7 +3538,8 @@
     "officialConcessionsUrl": "https://www.thedanforth.com/special-events",
     "city": "Toronto",
     "state": "ON",
-    "venueName": "The Danforth Music Hall"
+    "venueName": "The Danforth Music Hall",
+    "guideUrl": "https://concerto-concessions.netlify.app/thedanforthmusichall"
   },
   "the_dome_at_americas_center": {
     "updated": "",
@@ -3306,7 +3548,8 @@
     "officialConcessionsUrl": "https://explorestlouis.com/whats-new/how-to-happy-hour-in-st-louis/",
     "city": "St. Louis",
     "state": "MO",
-    "venueName": "The Dome at America\u2019s Center"
+    "venueName": "The Dome at America’s Center",
+    "guideUrl": "https://concerto-concessions.netlify.app/thedomeatamericascenter"
   },
   "the_fillmore_detroit": {
     "updated": "",
@@ -3315,7 +3558,8 @@
     "officialConcessionsUrl": "https://www.thefillmoredetroit.com/visit",
     "city": "Detroit",
     "state": "MI",
-    "venueName": "The Fillmore Detroit"
+    "venueName": "The Fillmore Detroit",
+    "guideUrl": "https://concerto-concessions.netlify.app/thefillmoredetroit"
   },
   "the_fillmore_silver_spring": {
     "updated": "",
@@ -3324,7 +3568,8 @@
     "officialConcessionsUrl": "https://www.fillmoresilverspring.com/visit",
     "city": "Silver Spring",
     "state": "MD",
-    "venueName": "The Fillmore Silver Spring"
+    "venueName": "The Fillmore Silver Spring",
+    "guideUrl": "https://concerto-concessions.netlify.app/thefillmoresilverspring"
   },
   "the_lyric": {
     "updated": "",
@@ -3333,7 +3578,8 @@
     "officialConcessionsUrl": "https://www.lyricbaltimore.com/plan-your-visit/venue-food-beverage",
     "city": "Baltimore",
     "state": "MD",
-    "venueName": "The Lyric"
+    "venueName": "The Lyric",
+    "guideUrl": "https://concerto-concessions.netlify.app/thelyric"
   },
   "the_met_presented_by_highmark": {
     "updated": "",
@@ -3342,7 +3588,8 @@
     "officialConcessionsUrl": "https://www.themetphilly.com/know-before-you-go",
     "city": "Philadelphia",
     "state": "PA",
-    "venueName": "The Met Presented by Highmark"
+    "venueName": "The Met Presented by Highmark",
+    "guideUrl": "https://concerto-concessions.netlify.app/themetpresentedbyhighmark"
   },
   "the_o2": {
     "updated": "",
@@ -3353,7 +3600,7 @@
       "Burrito Bar",
       "Chop Chop Stir Fry",
       "Lanson Champagne Bar",
-      "Salt \u2018n Vinegar",
+      "Salt ‘n Vinegar",
       "Becks Vier Bars",
       "Stella Bars",
       "Mixology Bar",
@@ -3364,7 +3611,8 @@
     "officialConcessionsUrl": "https://www.theo2.co.uk/events/the-o2-arena/food-and-drink-inside-the-arena",
     "city": "London",
     "state": "",
-    "venueName": "The O2"
+    "venueName": "The O2",
+    "guideUrl": "https://concerto-concessions.netlify.app/theo2"
   },
   "the_pavilion_at_star_lake": {
     "updated": "",
@@ -3379,7 +3627,8 @@
     "officialConcessionsUrl": "https://www.pavilionstarlake.com/bites",
     "city": "Burgettstown",
     "state": "PA",
-    "venueName": "The Pavilion at Star Lake"
+    "venueName": "The Pavilion at Star Lake",
+    "guideUrl": "https://concerto-concessions.netlify.app/thepavilionatstarlake"
   },
   "the_pavilion_at_toyota_music_factory": {
     "updated": "",
@@ -3393,7 +3642,8 @@
     "officialConcessionsUrl": "https://www.thepaviliontmf.com/bites",
     "city": "Irving",
     "state": "TX",
-    "venueName": "The Pavilion at Toyota Music Factory"
+    "venueName": "The Pavilion at Toyota Music Factory",
+    "guideUrl": "https://concerto-concessions.netlify.app/thepavilionattoyotamusicfactory"
   },
   "the_pinnacle": {
     "updated": "",
@@ -3402,7 +3652,8 @@
     "officialConcessionsUrl": "https://thepinnaclenashville.com/venue-info/",
     "city": "Nashville",
     "state": "TN",
-    "venueName": "The Pinnacle"
+    "venueName": "The Pinnacle",
+    "guideUrl": "https://concerto-concessions.netlify.app/thepinnacle"
   },
   "the_rady_shell_at_jacobs_park": {
     "updated": "",
@@ -3411,7 +3662,8 @@
     "officialConcessionsUrl": "https://www.theshell.org/plan-your-visit/rady-shell-faq/",
     "city": "San Diego",
     "state": "CA",
-    "venueName": "The Rady Shell at Jacobs Park"
+    "venueName": "The Rady Shell at Jacobs Park",
+    "guideUrl": "https://concerto-concessions.netlify.app/theradyshellatjacobspark"
   },
   "the_tabernacle": {
     "updated": "",
@@ -3420,7 +3672,8 @@
     "officialConcessionsUrl": "https://www.tabernacleatl.com/visit",
     "city": "Atlanta",
     "state": "GA",
-    "venueName": "The Tabernacle"
+    "venueName": "The Tabernacle",
+    "guideUrl": "https://concerto-concessions.netlify.app/thetabernacle"
   },
   "the_theatre_of_living_arts": {
     "updated": "",
@@ -3429,7 +3682,8 @@
     "officialConcessionsUrl": "https://www.tlaphilly.com/visit",
     "city": "Philadelphia",
     "state": "PA",
-    "venueName": "The Theatre of Living Arts"
+    "venueName": "The Theatre of Living Arts",
+    "guideUrl": "https://concerto-concessions.netlify.app/thetheatreoflivingarts"
   },
   "the_wiltern": {
     "updated": "",
@@ -3438,7 +3692,8 @@
     "officialConcessionsUrl": "https://www.wiltern.com/visit",
     "city": "Los Angeles",
     "state": "CA",
-    "venueName": "The Wiltern"
+    "venueName": "The Wiltern",
+    "guideUrl": "https://concerto-concessions.netlify.app/thewiltern"
   },
   "thunder_ridge_nature_arena": {
     "updated": "",
@@ -3447,7 +3702,8 @@
     "officialConcessionsUrl": "https://www.thunderridgenaturearena.com/venue-info/a-to-z-guide/",
     "city": "Ridgedale",
     "state": "MO",
-    "venueName": "Thunder Ridge Nature Arena"
+    "venueName": "Thunder Ridge Nature Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/thunderridgenaturearena"
   },
   "tmobile_arena": {
     "updated": "",
@@ -3456,7 +3712,8 @@
     "officialConcessionsUrl": "https://www.t-mobilearena.com/arena-information/arena-dining",
     "city": "Las Vegas",
     "state": "NV",
-    "venueName": "T-Mobile Arena"
+    "venueName": "T-Mobile Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/tmobilearena"
   },
   "tmobile_center": {
     "updated": "",
@@ -3465,7 +3722,8 @@
     "officialConcessionsUrl": "https://www.t-mobilecenter.com/assets/doc/T-Mobile-Center-Suites-Menu-2024-cb56500917.pdf",
     "city": "Kansas City",
     "state": "MO",
-    "venueName": "T-Mobile Center"
+    "venueName": "T-Mobile Center",
+    "guideUrl": "https://concerto-concessions.netlify.app/tmobilecenter"
   },
   "tmobile_park": {
     "updated": "",
@@ -3474,13 +3732,14 @@
       "Moto Pizza",
       "Ivar's",
       "Nakagawa Sushi",
-      "King\u2019s Court Stand",
+      "King’s Court Stand",
       "Walk-Off Markets"
     ],
     "officialConcessionsUrl": "https://www.mlb.com/mariners/ballpark/top-eats",
     "city": "Seattle",
     "state": "WA",
-    "venueName": "T-Mobile Park"
+    "venueName": "T-Mobile Park",
+    "guideUrl": "https://concerto-concessions.netlify.app/tmobilepark"
   },
   "talking_stick_resort_amphitheatre": {
     "updated": "",
@@ -3495,18 +3754,20 @@
     "officialConcessionsUrl": "https://www.talkingstickresortamphitheatre.com/bites",
     "city": "Phoenix",
     "state": "AZ",
-    "venueName": "Talking Stick Resort Amphitheatre"
+    "venueName": "Talking Stick Resort Amphitheatre",
+    "guideUrl": "https://concerto-concessions.netlify.app/talkingstickresortamphitheatre"
   },
   "tottenham_hotspur_stadium": {
     "updated": "",
-    "note": "Tottenham Hotspur Stadium offers a variety of food and drink options, including hot food, salads, barista coffee, and bakery goods at the M Caf\u00e9, which is open daily except on event days. Special event menus and exclusive items like loaded nachos and doughnuts are available during specific events.",
+    "note": "Tottenham Hotspur Stadium offers a variety of food and drink options, including hot food, salads, barista coffee, and bakery goods at the M Café, which is open daily except on event days. Special event menus and exclusive items like loaded nachos and doughnuts are available during specific events.",
     "stands": [
-      "M Caf\u00e9"
+      "M Café"
     ],
     "officialConcessionsUrl": "https://www.tottenhamhotspurstadium.com/plan-your-visit/food-drink/",
     "city": "London",
     "state": "",
-    "venueName": "Tottenham Hotspur Stadium"
+    "venueName": "Tottenham Hotspur Stadium",
+    "guideUrl": "https://concerto-concessions.netlify.app/tottenhamhotspurstadium"
   },
   "toyota_center": {
     "updated": "",
@@ -3515,7 +3776,8 @@
     "officialConcessionsUrl": "https://www.toyotacenter.com/assets/doc/201819-0173-Updated-Concessions-Map-0f283f8d11.pdf",
     "city": "Houston",
     "state": "TX",
-    "venueName": "Toyota Center"
+    "venueName": "Toyota Center",
+    "guideUrl": "https://concerto-concessions.netlify.app/toyotacenter"
   },
   "truist_park": {
     "updated": "",
@@ -3530,7 +3792,8 @@
     "officialConcessionsUrl": "https://www.mlb.com/athletics/ballpark/food-and-beverage",
     "city": "Atlanta",
     "state": "GA",
-    "venueName": "Truist Park"
+    "venueName": "Truist Park",
+    "guideUrl": "https://concerto-concessions.netlify.app/truistpark"
   },
   "ubc_doug_mitchell_thunderbird_sports_centre": {
     "updated": "",
@@ -3539,7 +3802,8 @@
     "officialConcessionsUrl": "https://thunderbirdarena.ubc.ca/guest-information/food-beverages/",
     "city": "Vancouver",
     "state": "BC",
-    "venueName": "UBC \u2013 Doug Mitchell Thunderbird Sports Centre"
+    "venueName": "UBC – Doug Mitchell Thunderbird Sports Centre",
+    "guideUrl": "https://concerto-concessions.netlify.app/ubcdougmitchellthunderbirdsportscentre"
   },
   "ubs_arena": {
     "updated": "",
@@ -3554,7 +3818,8 @@
     "officialConcessionsUrl": "https://ubsarena.com/plan-your-trip/dining/",
     "city": "Elmont",
     "state": "NY",
-    "venueName": "UBS Arena"
+    "venueName": "UBS Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/ubsarena"
   },
   "uc_berkeley_greek_theatre": {
     "updated": "",
@@ -3563,7 +3828,8 @@
     "officialConcessionsUrl": "https://thegreekberkeley.com/qdoes-the-greek-theatre-serve-food-and-refreshments/",
     "city": "Berkeley",
     "state": "CA",
-    "venueName": "UC Berkeley Greek Theatre"
+    "venueName": "UC Berkeley Greek Theatre",
+    "guideUrl": "https://concerto-concessions.netlify.app/ucberkeleygreektheatre"
   },
   "us_bank_stadium": {
     "updated": "",
@@ -3579,7 +3845,8 @@
     "officialConcessionsUrl": "https://www.usbankstadium.com/guest-experience/concessions",
     "city": "Minneapolis",
     "state": "MN",
-    "venueName": "U.S. Bank Stadium"
+    "venueName": "U.S. Bank Stadium",
+    "guideUrl": "https://concerto-concessions.netlify.app/usbankstadium"
   },
   "unipol_arena": {
     "updated": "10 May 2024",
@@ -3588,7 +3855,8 @@
     "officialConcessionsUrl": "https://www.unipolarena.it/en/rules/",
     "city": "Casalecchio di Reno",
     "state": "",
-    "venueName": "Unipol Arena"
+    "venueName": "Unipol Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/unipolarena"
   },
   "unipol_forum": {
     "updated": "",
@@ -3597,7 +3865,8 @@
     "officialConcessionsUrl": "https://www.unipolforum.it/en/hospitality/",
     "city": "Assago",
     "state": "",
-    "venueName": "Unipol Forum"
+    "venueName": "Unipol Forum",
+    "guideUrl": "https://concerto-concessions.netlify.app/unipolforum"
   },
   "united_center": {
     "updated": "",
@@ -3606,7 +3875,8 @@
     "officialConcessionsUrl": "https://www.unitedcenter.com/venue/dining/",
     "city": "Chicago",
     "state": "IL",
-    "venueName": "United Center"
+    "venueName": "United Center",
+    "guideUrl": "https://concerto-concessions.netlify.app/unitedcenter"
   },
   "unity_arena": {
     "updated": "",
@@ -3615,7 +3885,8 @@
     "officialConcessionsUrl": "https://www.fornebuporten.no/thefoodcourt",
     "city": "Fornebu",
     "state": "",
-    "venueName": "Unity Arena"
+    "venueName": "Unity Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/unityarena"
   },
   "usher_hall": {
     "updated": "",
@@ -3624,7 +3895,8 @@
     "officialConcessionsUrl": "http://www.usherhall.co.uk/whats-on/tom-kerridge-how-lose-weight-good",
     "city": "Edinburgh",
     "state": "",
-    "venueName": "Usher Hall"
+    "venueName": "Usher Hall",
+    "guideUrl": "https://concerto-concessions.netlify.app/usherhall"
   },
   "utah_first_credit_union_amphitheatre": {
     "updated": "",
@@ -3639,7 +3911,8 @@
     "officialConcessionsUrl": "https://www.utahfirstamp.com/bites",
     "city": "West Valley City",
     "state": "UT",
-    "venueName": "Utah First Credit Union Amphitheatre"
+    "venueName": "Utah First Credit Union Amphitheatre",
+    "guideUrl": "https://concerto-concessions.netlify.app/utahfirstcreditunionamphitheatre"
   },
   "utilita_arena_birmingham": {
     "updated": "",
@@ -3648,7 +3921,8 @@
     "officialConcessionsUrl": "https://www.utilitaarenabham.co.uk/contact-us/",
     "city": "Birmingham",
     "state": "",
-    "venueName": "Utilita Arena Birmingham"
+    "venueName": "Utilita Arena Birmingham",
+    "guideUrl": "https://concerto-concessions.netlify.app/utilitaarenabirmingham"
   },
   "utilita_arena_newcastle": {
     "updated": "",
@@ -3657,7 +3931,8 @@
     "officialConcessionsUrl": "https://www.utilitaarena.co.uk/plan-your-visit/faqs",
     "city": "Newcastle Upon Tyne",
     "state": "",
-    "venueName": "Utilita Arena Newcastle"
+    "venueName": "Utilita Arena Newcastle",
+    "guideUrl": "https://concerto-concessions.netlify.app/utilitaarenanewcastle"
   },
   "utilita_arena_sheffield": {
     "updated": "",
@@ -3669,7 +3944,8 @@
     "officialConcessionsUrl": "https://www.utilitaarenasheffield.co.uk/venue-info/food-and-drink/",
     "city": "Sheffield",
     "state": "",
-    "venueName": "Utilita Arena Sheffield"
+    "venueName": "Utilita Arena Sheffield",
+    "guideUrl": "https://concerto-concessions.netlify.app/utilitaarenasheffield"
   },
   "uw_panther_arena": {
     "updated": "",
@@ -3678,7 +3954,8 @@
     "officialConcessionsUrl": "https://uwmilwaukeepantherarena.com/promoters-event-planners/event-planners/food-and-beverage/",
     "city": "Milwaukee",
     "state": "WI",
-    "venueName": "UW \u2013 Panther Arena"
+    "venueName": "UW – Panther Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/uwpantherarena"
   },
   "van_andel_arena": {
     "updated": "",
@@ -3687,7 +3964,8 @@
     "officialConcessionsUrl": "https://www.vanandelarena.com/p/visit/foodandbeverage",
     "city": "Grand Rapids",
     "state": "MI",
-    "venueName": "Van Andel Arena"
+    "venueName": "Van Andel Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/vanandelarena"
   },
   "veikkaus_arena": {
     "updated": "",
@@ -3696,7 +3974,8 @@
     "officialConcessionsUrl": "https://www.veikkausarena.fi/premium",
     "city": "Helsinki",
     "state": "",
-    "venueName": "Veikkaus Arena"
+    "venueName": "Veikkaus Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/veikkausarena"
   },
   "veterans_memorial_coliseum": {
     "updated": "",
@@ -3712,7 +3991,8 @@
     "officialConcessionsUrl": "https://www.rosequarter.com/plan-your-visit/concessions-guide",
     "city": "Portland",
     "state": "OR",
-    "venueName": "Veterans Memorial Coliseum"
+    "venueName": "Veterans Memorial Coliseum",
+    "guideUrl": "https://concerto-concessions.netlify.app/veteransmemorialcoliseum"
   },
   "veterans_united_home_loans_amphitheater": {
     "updated": "",
@@ -3727,7 +4007,8 @@
     "officialConcessionsUrl": "https://www.veteransunitedhomeloansamphitheater.com/bites",
     "city": "Virginia Beach",
     "state": "VA",
-    "venueName": "Veterans United Home Loans Amphitheater"
+    "venueName": "Veterans United Home Loans Amphitheater",
+    "guideUrl": "https://concerto-concessions.netlify.app/veteransunitedhomeloansamphitheater"
   },
   "videotron_centre": {
     "updated": "",
@@ -3736,7 +4017,8 @@
     "officialConcessionsUrl": "https://www.lecentrevideotron.ca/en/services/restaurants-concessions",
     "city": "Quebec City",
     "state": "QC",
-    "venueName": "Videotron Centre"
+    "venueName": "Videotron Centre",
+    "guideUrl": "https://concerto-concessions.netlify.app/videotroncentre"
   },
   "viejas_arena": {
     "updated": "",
@@ -3757,7 +4039,8 @@
     "officialConcessionsUrl": "https://as.sdsu.edu/viejas_arena/concession",
     "city": "San Diego",
     "state": "CA",
-    "venueName": "Viejas Arena"
+    "venueName": "Viejas Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/viejasarena"
   },
   "villa_erba": {
     "updated": "",
@@ -3766,7 +4049,8 @@
     "officialConcessionsUrl": "https://www.villaerba.it/en/",
     "city": "Cernobbio",
     "state": "",
-    "venueName": "Villa Erba"
+    "venueName": "Villa Erba",
+    "guideUrl": "https://concerto-concessions.netlify.app/villaerba"
   },
   "wamu_theater": {
     "updated": "",
@@ -3775,7 +4059,8 @@
     "officialConcessionsUrl": "https://www.wamutheater.com/plan-your-visit/food-beverage",
     "city": "Seattle",
     "state": "WA",
-    "venueName": "WAMU Theater"
+    "venueName": "WAMU Theater",
+    "guideUrl": "https://concerto-concessions.netlify.app/wamutheater"
   },
   "walmart_amp": {
     "updated": "",
@@ -3784,7 +4069,8 @@
     "officialConcessionsUrl": "https://walmartamp.com/concessions-specials",
     "city": "Rogers",
     "state": "AR",
-    "venueName": "Walmart AMP"
+    "venueName": "Walmart AMP",
+    "guideUrl": "https://concerto-concessions.netlify.app/walmartamp"
   },
   "wells_fargo_arena": {
     "updated": "",
@@ -3793,7 +4079,8 @@
     "officialConcessionsUrl": "https://www.tripadvisor.com/RestaurantsNear-g37835-d7379602-Wells_Fargo_Arena-Des_Moines_Iowa.html",
     "city": "Des Moines",
     "state": "IA",
-    "venueName": "Wells Fargo Arena"
+    "venueName": "Wells Fargo Arena",
+    "guideUrl": "https://concerto-concessions.netlify.app/wellsfargoarena"
   },
   "wells_fargo_center": {
     "updated": "",
@@ -3832,7 +4119,8 @@
     "officialConcessionsUrl": "https://www.xfinitymobilearena.com/plan-your-visit/concessions",
     "city": "Philadelphia",
     "state": "PA",
-    "venueName": "Wells Fargo Center"
+    "venueName": "Wells Fargo Center",
+    "guideUrl": "https://concerto-concessions.netlify.app/wellsfargocenter"
   },
   "wembley_stadium": {
     "updated": "",
@@ -3841,18 +4129,20 @@
     "officialConcessionsUrl": "https://www.wembleystadium.com/venue-hire/menus",
     "city": "London",
     "state": "",
-    "venueName": "Wembley Stadium"
+    "venueName": "Wembley Stadium",
+    "guideUrl": "https://concerto-concessions.netlify.app/wembleystadium"
   },
   "winstar_lucas_oil_live": {
     "updated": "",
-    "note": "Union Mesa Restaurant & Cantina offers a refined take on traditional Tex-Mex cuisine with a curated menu featuring both classic and innovative dishes. Highlights include top shelf tequila selections, a unique margarita menu, and happy hour specials from 4:00 \u2013 6:00 PM Monday \u2013 Wednesday.",
+    "note": "Union Mesa Restaurant & Cantina offers a refined take on traditional Tex-Mex cuisine with a curated menu featuring both classic and innovative dishes. Highlights include top shelf tequila selections, a unique margarita menu, and happy hour specials from 4:00 – 6:00 PM Monday – Wednesday.",
     "stands": [
       "Union Mesa Restaurant & Cantina"
     ],
     "officialConcessionsUrl": "https://www.winstar.com/dine/dining-venues/union-mesa-restaurant-cantina/",
     "city": "Thackerville",
     "state": "OK",
-    "venueName": "WinStar Lucas Oil Live"
+    "venueName": "WinStar Lucas Oil Live",
+    "guideUrl": "https://concerto-concessions.netlify.app/winstarlucasoillive"
   },
   "wrigley_field": {
     "updated": "",
@@ -3867,7 +4157,8 @@
     "officialConcessionsUrl": "https://www.mlb.com/athletics/ballpark/food-and-beverage",
     "city": "Chicago",
     "state": "IL",
-    "venueName": "Wrigley Field"
+    "venueName": "Wrigley Field",
+    "guideUrl": "https://concerto-concessions.netlify.app/wrigleyfield"
   },
   "xl_center": {
     "updated": "",
@@ -3894,11 +4185,12 @@
     "officialConcessionsUrl": "https://www.peoplesbankarena.com/plan-your-visit/concessions",
     "city": "Hartford",
     "state": "CT",
-    "venueName": "XL Center"
+    "venueName": "XL Center",
+    "guideUrl": "https://concerto-concessions.netlify.app/xlcenter"
   },
   "xcel_energy_center": {
     "updated": "",
-    "note": "Xcel Energy Center offers a variety of food and drink options including traditional sausages, craft beers, pizza, burgers, and more. Special offerings include the Wild $6 Happy Hour and the Wild Market with Amazon\u2019s Just Walk Out technology. Alcohol sales end during the third period of Minnesota Wild games or one hour before the end of other events.",
+    "note": "Xcel Energy Center offers a variety of food and drink options including traditional sausages, craft beers, pizza, burgers, and more. Special offerings include the Wild $6 Happy Hour and the Wild Market with Amazon’s Just Walk Out technology. Alcohol sales end during the third period of Minnesota Wild games or one hour before the end of other events.",
     "stands": [
       "Wild Market",
       "Sausage Haus",
@@ -3918,7 +4210,8 @@
     "officialConcessionsUrl": "https://www.grandcasinoarena.com/plan-your-visit/dine-with-us/concessions",
     "city": "St. Paul",
     "state": "MN",
-    "venueName": "Xcel Energy Center"
+    "venueName": "Xcel Energy Center",
+    "guideUrl": "https://concerto-concessions.netlify.app/xcelenergycenter"
   },
   "yankee_stadium": {
     "updated": "",
@@ -3933,7 +4226,8 @@
     "officialConcessionsUrl": "https://www.mlb.com/athletics/ballpark/food-and-beverage",
     "city": "Bronx",
     "state": "NY",
-    "venueName": "Yankee Stadium"
+    "venueName": "Yankee Stadium",
+    "guideUrl": "https://concerto-concessions.netlify.app/yankeestadium"
   },
   "stagecoach_festival": {
     "updated": "",
@@ -3942,7 +4236,8 @@
     "officialConcessionsUrl": "https://www.facebook.com/stagecoachfestival/",
     "city": "Indio",
     "state": "CA",
-    "venueName": "Stagecoach Festival"
+    "venueName": "Stagecoach Festival",
+    "guideUrl": "https://concerto-concessions.netlify.app/stagecoachfestival"
   },
   "ultra_music_festival": {
     "updated": "",
@@ -3951,7 +4246,8 @@
     "officialConcessionsUrl": "https://ultramusicfestival.com/",
     "city": "Miami",
     "state": "FL",
-    "venueName": "Ultra Music Festival"
+    "venueName": "Ultra Music Festival",
+    "guideUrl": "https://concerto-concessions.netlify.app/ultramusicfestival"
   },
   "edc_las_vegas": {
     "updated": "",
@@ -3960,7 +4256,8 @@
     "officialConcessionsUrl": "https://lasvegas.electricdaisycarnival.com/tickets/bottle-service/",
     "city": "Las Vegas",
     "state": "NV",
-    "venueName": "EDC Las Vegas"
+    "venueName": "EDC Las Vegas",
+    "guideUrl": "https://concerto-concessions.netlify.app/edclasvegas"
   },
   "electric_forest": {
     "updated": "",
@@ -3969,7 +4266,8 @@
     "officialConcessionsUrl": "https://www.electricforest.com/pass-types/",
     "city": "Rothbury",
     "state": "MI",
-    "venueName": "Electric Forest"
+    "venueName": "Electric Forest",
+    "guideUrl": "https://concerto-concessions.netlify.app/electricforest"
   },
   "bonnaroo_music_arts_festival": {
     "updated": "",
@@ -3978,7 +4276,8 @@
     "officialConcessionsUrl": "https://www.bonnaroo.com/",
     "city": "Manchester",
     "state": "TN",
-    "venueName": "Bonnaroo Music & Arts Festival"
+    "venueName": "Bonnaroo Music & Arts Festival",
+    "guideUrl": "https://concerto-concessions.netlify.app/bonnaroomusicartsfestival"
   },
   "governors_ball": {
     "updated": "Jun 4, 2025",
@@ -3987,7 +4286,8 @@
     "officialConcessionsUrl": "https://ny.eater.com/24442409/governors-ball-music-festival-nyc-best-food-drinks-where-to-eat-queens-flushing-meadows-corona-park",
     "city": "New York",
     "state": "NY",
-    "venueName": "Governors Ball"
+    "venueName": "Governors Ball",
+    "guideUrl": "https://concerto-concessions.netlify.app/governorsball"
   },
   "boston_calling": {
     "updated": "",
@@ -3996,7 +4296,8 @@
     "officialConcessionsUrl": "https://www.cityofboston.gov/images_documents/2016%20P&R%20Vending%20RFP_tcm3-52212.pdf",
     "city": "Boston",
     "state": "MA",
-    "venueName": "Boston Calling"
+    "venueName": "Boston Calling",
+    "guideUrl": "https://concerto-concessions.netlify.app/bostoncalling"
   },
   "bottlerock_napa_valley": {
     "updated": "",
@@ -4005,7 +4306,8 @@
     "officialConcessionsUrl": "https://www.bottlerocknapavalley.com/lineup/",
     "city": "Napa",
     "state": "CA",
-    "venueName": "BottleRock Napa Valley"
+    "venueName": "BottleRock Napa Valley",
+    "guideUrl": "https://concerto-concessions.netlify.app/bottlerocknapavalley"
   },
   "hangout_music_festival": {
     "updated": "",
@@ -4017,7 +4319,8 @@
     "officialConcessionsUrl": "https://www.hangoutmusicfest.com/experience/",
     "city": "Gulf Shores",
     "state": "AL",
-    "venueName": "Hangout Music Festival"
+    "venueName": "Hangout Music Festival",
+    "guideUrl": "https://concerto-concessions.netlify.app/hangoutmusicfestival"
   },
   "outside_lands": {
     "updated": "",
@@ -4026,7 +4329,8 @@
     "officialConcessionsUrl": "https://sfoutsidelands.com/food-and-drink/taste-of-the-bay-area/",
     "city": "San Francisco",
     "state": "CA",
-    "venueName": "Outside Lands"
+    "venueName": "Outside Lands",
+    "guideUrl": "https://concerto-concessions.netlify.app/outsidelands"
   },
   "lollapalooza": {
     "updated": "",
@@ -4035,7 +4339,8 @@
     "officialConcessionsUrl": "https://www.chicagoparkdistrict.com/facilities/concessions",
     "city": "Chicago",
     "state": "IL",
-    "venueName": "Lollapalooza"
+    "venueName": "Lollapalooza",
+    "guideUrl": "https://concerto-concessions.netlify.app/lollapalooza"
   },
   "rolling_loud_miami": {
     "updated": "2024-11-13T17:10:06-04:00",
@@ -4049,14 +4354,14 @@
       "Cheeseburger Baby",
       "Cluck",
       "Craft Provisions",
-      "Crisppi\u2019s Chicken",
+      "Crisppi’s Chicken",
       "Crust Artisan Pizza",
       "Ella Cafe",
       "Fan Favorites",
       "Fatboy Smashburgers",
       "Fuku",
       "Gourmet Donuts",
-      "Granny B\u2019z",
+      "Granny B’z",
       "Italian Vice",
       "Kebab Joint",
       "La Mila Nation",
@@ -4075,7 +4380,8 @@
     "officialConcessionsUrl": "https://www.hardrockstadium.com/concessions/",
     "city": "Miami Gardens",
     "state": "FL",
-    "venueName": "Rolling Loud Miami"
+    "venueName": "Rolling Loud Miami",
+    "guideUrl": "https://concerto-concessions.netlify.app/rollingloudmiami"
   },
   "rolling_loud_los_angeles": {
     "updated": "",
@@ -4084,13 +4390,14 @@
     "officialConcessionsUrl": "https://hollywoodparklife.com/retail/",
     "city": "Inglewood",
     "state": "CA",
-    "venueName": "Rolling Loud Los Angeles"
+    "venueName": "Rolling Loud Los Angeles",
+    "guideUrl": "https://concerto-concessions.netlify.app/rollingloudlosangeles"
   },
   "summerfest": {
     "updated": "2025-05-21",
     "note": "Summerfest 2025 introduces a diverse array of new food and beverage options, including unique items like Lumpia City Mac 'n Cheese Rolls and Funnel Cake Pork Sandwiches. The festival also highlights local vendors through the BMO Small Business Spotlight program.",
     "stands": [
-      "Angelo\u2019s Pizza",
+      "Angelo’s Pizza",
       "Beats & Eats",
       "Charcoal Grill and Rotisserie",
       "Cousins Subs",
@@ -4110,7 +4417,8 @@
     "officialConcessionsUrl": "https://www.summerfest.com/press-releases/2025/05/21/summerfest-reveals-new-merch-food-drinks-and-highlights-six-local-bmo-small-business-spotlight-vendors-during-2025-preview-event/",
     "city": "Milwaukee",
     "state": "WI",
-    "venueName": "Summerfest"
+    "venueName": "Summerfest",
+    "guideUrl": "https://concerto-concessions.netlify.app/summerfest"
   },
   "pitchfork_music_festival": {
     "updated": "",
@@ -4119,24 +4427,26 @@
     "officialConcessionsUrl": "https://pitchforkmusicfestival.com/",
     "city": "Chicago",
     "state": "IL",
-    "venueName": "Pitchfork Music Festival"
+    "venueName": "Pitchfork Music Festival",
+    "guideUrl": "https://concerto-concessions.netlify.app/pitchforkmusicfestival"
   },
   "new_orleans_jazz_heritage_festival": {
     "updated": "",
-    "note": "The New Orleans Jazz & Heritage Festival offers a diverse array of food options, including BBQ, seafood, and vegan dishes. Highlights include the Whiskey Bacon & Swiss Burger, Crawfish Mac & Cheese, and Chargrilled Oysters. Unique offerings such as the Surf \u2018n Turf Pupusa and Ropa Vieja Modelo Queso Mac showcase the festival's culinary creativity.",
+    "note": "The New Orleans Jazz & Heritage Festival offers a diverse array of food options, including BBQ, seafood, and vegan dishes. Highlights include the Whiskey Bacon & Swiss Burger, Crawfish Mac & Cheese, and Chargrilled Oysters. Unique offerings such as the Surf ‘n Turf Pupusa and Ropa Vieja Modelo Queso Mac showcase the festival's culinary creativity.",
     "stands": [
       "Divine Cuisine",
       "Cochon King BBQ",
-      "Magasin Vietnamese Caf\u00e9",
-      "Brocato\u2019s Catering",
+      "Magasin Vietnamese Café",
+      "Brocato’s Catering",
       "Que Pasta Nola",
-      "Caf\u00e9 Dauphine",
+      "Café Dauphine",
       "Steakman Catering"
     ],
     "officialConcessionsUrl": "https://www.jazzandheritage.org/food-menus-2024-crescent-city-blues-bbq-festival/",
     "city": "New Orleans",
     "state": "LA",
-    "venueName": "New Orleans Jazz & Heritage Festival"
+    "venueName": "New Orleans Jazz & Heritage Festival",
+    "guideUrl": "https://concerto-concessions.netlify.app/neworleansjazzheritagefestival"
   },
   "newport_folk_festival": {
     "updated": "",
@@ -4145,7 +4455,8 @@
     "officialConcessionsUrl": "https://newportjazz.org/info/accessibility",
     "city": "Newport",
     "state": "RI",
-    "venueName": "Newport Folk Festival"
+    "venueName": "Newport Folk Festival",
+    "guideUrl": "https://concerto-concessions.netlify.app/newportfolkfestival"
   },
   "newport_jazz_festival": {
     "updated": "",
@@ -4154,7 +4465,8 @@
     "officialConcessionsUrl": "https://newportjazz.org/info/accessibility",
     "city": "Newport",
     "state": "RI",
-    "venueName": "Newport Jazz Festival"
+    "venueName": "Newport Jazz Festival",
+    "guideUrl": "https://concerto-concessions.netlify.app/newportjazzfestival"
   },
   "austin_city_limits_music_festival": {
     "updated": "",
@@ -4163,7 +4475,8 @@
     "officialConcessionsUrl": "https://www.acllive.com/plan-your-visit/know-before-you-go",
     "city": "Austin",
     "state": "TX",
-    "venueName": "Austin City Limits Music Festival"
+    "venueName": "Austin City Limits Music Festival",
+    "guideUrl": "https://concerto-concessions.netlify.app/austincitylimitsmusicfestival"
   },
   "when_we_were_young": {
     "updated": "",
@@ -4181,7 +4494,8 @@
     "officialConcessionsUrl": "https://www.circuscircus.com/restaurants-1/quick-eats-1/",
     "city": "Las Vegas",
     "state": "NV",
-    "venueName": "When We Were Young"
+    "venueName": "When We Were Young",
+    "guideUrl": "https://concerto-concessions.netlify.app/whenwewereyoung"
   },
   "life_is_beautiful": {
     "updated": "Sep 13, 2023, 4:16 PM UTC",
@@ -4192,7 +4506,7 @@
       "Yukon Pizza",
       "Rebellion Pizza",
       "Pizza Rock",
-      "Esther\u2019s Kitchen",
+      "Esther’s Kitchen",
       "Delilah",
       "Anima By EDO",
       "Vetri Cucina",
@@ -4203,19 +4517,20 @@
       "Main St. Provisions",
       "Casa Playa",
       "Echo & Rig",
-      "Jaleo By Jos\u00e9 Andr\u00e9s",
+      "Jaleo By José Andrés",
       "Afters Ice Cream",
       "Night + Market",
       "Tacotarian",
       "Temaki Time",
-      "China Poblano By Jos\u00e9 Andr\u00e9s",
+      "China Poblano By José Andrés",
       "Cousins Maine Lobster Las Vegas",
       "Shake Shack"
     ],
     "officialConcessionsUrl": "https://vegas.eater.com/2023/9/12/23870911/life-is-beautiful-2023-what-to-eat-drink-las-vegas-downtown-guide",
     "city": "Las Vegas",
     "state": "NV",
-    "venueName": "Life Is Beautiful"
+    "venueName": "Life Is Beautiful",
+    "guideUrl": "https://concerto-concessions.netlify.app/lifeisbeautiful"
   },
   "lightning_in_a_bottle": {
     "updated": "",
@@ -4224,7 +4539,8 @@
     "officialConcessionsUrl": "https://www.libfestival.org/camping",
     "city": "Bakersfield",
     "state": "CA",
-    "venueName": "Lightning in a Bottle"
+    "venueName": "Lightning in a Bottle",
+    "guideUrl": "https://concerto-concessions.netlify.app/lightninginabottle"
   },
   "shaky_knees_music_festival": {
     "updated": "",
@@ -4233,21 +4549,23 @@
     "officialConcessionsUrl": "https://www.atlantaga.gov/government/departments/city-planning/economic-development/vending-program/carts",
     "city": "Atlanta",
     "state": "GA",
-    "venueName": "Shaky Knees Music Festival"
+    "venueName": "Shaky Knees Music Festival",
+    "guideUrl": "https://concerto-concessions.netlify.app/shakykneesmusicfestival"
   },
   "music_midtown": {
     "updated": "",
-    "note": "Piedmont Park offers a variety of food and beverage options through its concessions, including hot snacks and cold drinks. Notable vendors include Henri\u2019s Bakery & Deli, Shake Shack, Willy\u2019s Mexicana Grill, and Howlin Willy\u2019s, providing diverse dining choices for visitors.",
+    "note": "Piedmont Park offers a variety of food and beverage options through its concessions, including hot snacks and cold drinks. Notable vendors include Henri’s Bakery & Deli, Shake Shack, Willy’s Mexicana Grill, and Howlin Willy’s, providing diverse dining choices for visitors.",
     "stands": [
-      "Henri\u2019s Bakery & Deli",
+      "Henri’s Bakery & Deli",
       "Shake Shack",
-      "Willy\u2019s Mexicana Grill",
-      "Howlin Willy\u2019s"
+      "Willy’s Mexicana Grill",
+      "Howlin Willy’s"
     ],
     "officialConcessionsUrl": "https://piedmontpark.org/food-beverage/",
     "city": "Atlanta",
     "state": "GA",
-    "venueName": "Music Midtown"
+    "venueName": "Music Midtown",
+    "guideUrl": "https://concerto-concessions.netlify.app/musicmidtown"
   },
   "iii_points": {
     "updated": "",
@@ -4256,7 +4574,8 @@
     "officialConcessionsUrl": "https://www.factorytown.com/gallery-2025/",
     "city": "Miami",
     "state": "FL",
-    "venueName": "III Points"
+    "venueName": "III Points",
+    "guideUrl": "https://concerto-concessions.netlify.app/iiipoints"
   },
   "hard_summer_music_festival": {
     "updated": "",
@@ -4265,7 +4584,8 @@
     "officialConcessionsUrl": "https://hollywoodparklife.com/retail/",
     "city": "Los Angeles",
     "state": "CA",
-    "venueName": "HARD Summer Music Festival"
+    "venueName": "HARD Summer Music Festival",
+    "guideUrl": "https://concerto-concessions.netlify.app/hardsummermusicfestival"
   },
   "beyond_wonderland_socal": {
     "updated": "",
@@ -4274,7 +4594,8 @@
     "officialConcessionsUrl": "https://www.nosevents.com/wine-food-by-the-lagoon/",
     "city": "San Bernardino",
     "state": "CA",
-    "venueName": "Beyond Wonderland SoCal"
+    "venueName": "Beyond Wonderland SoCal",
+    "guideUrl": "https://concerto-concessions.netlify.app/beyondwonderlandsocal"
   },
   "moonrise_festival": {
     "updated": "",
@@ -4283,7 +4604,8 @@
     "officialConcessionsUrl": "https://baltimore.org/event/moonrise-festival/",
     "city": "Baltimore",
     "state": "MD",
-    "venueName": "Moonrise Festival"
+    "venueName": "Moonrise Festival",
+    "guideUrl": "https://concerto-concessions.netlify.app/moonrisefestival"
   },
   "country_thunder_wisconsin": {
     "updated": "",
@@ -4292,7 +4614,8 @@
     "officialConcessionsUrl": "https://www.countrythunder.com/az-tickets",
     "city": "Twin Lakes",
     "state": "WI",
-    "venueName": "Country Thunder Wisconsin"
+    "venueName": "Country Thunder Wisconsin",
+    "guideUrl": "https://concerto-concessions.netlify.app/countrythunderwisconsin"
   },
   "electric_zoo": {
     "updated": "",
@@ -4301,7 +4624,8 @@
     "officialConcessionsUrl": "https://centralparkzoo.com/brew/food-and-drink",
     "city": "New York",
     "state": "NY",
-    "venueName": "Electric Zoo"
+    "venueName": "Electric Zoo",
+    "guideUrl": "https://concerto-concessions.netlify.app/electriczoo"
   },
   "riot_fest": {
     "updated": "",
@@ -4322,18 +4646,20 @@
     "officialConcessionsUrl": "https://www.tasteofrivernorth.com/",
     "city": "Chicago",
     "state": "IL",
-    "venueName": "Riot Fest"
+    "venueName": "Riot Fest",
+    "guideUrl": "https://concerto-concessions.netlify.app/riotfest"
   },
   "essence_festival_of_culture": {
     "updated": "",
-    "note": "The venue features Dutch\u2019s Corner, an in-house convenience store located next to the UPS Store in Lobby E. It offers a variety of snacks and beverages for attendees.",
+    "note": "The venue features Dutch’s Corner, an in-house convenience store located next to the UPS Store in Lobby E. It offers a variety of snacks and beverages for attendees.",
     "stands": [
-      "Dutch\u2019s Corner"
+      "Dutch’s Corner"
     ],
     "officialConcessionsUrl": "https://mccno.com/visitors/services-amenities/",
     "city": "New Orleans",
     "state": "LA",
-    "venueName": "Essence Festival of Culture"
+    "venueName": "Essence Festival of Culture",
+    "guideUrl": "https://concerto-concessions.netlify.app/essencefestivalofculture"
   },
   "sxsw_music_film_interactive": {
     "updated": "",
@@ -4342,7 +4668,8 @@
     "officialConcessionsUrl": "https://www.sxsw.com/wp-content/uploads/2021/10/2022-SXSW-General-Exhibitons-FAQ-.pdf",
     "city": "Austin",
     "state": "TX",
-    "venueName": "SXSW (Music, Film & Interactive)"
+    "venueName": "SXSW (Music, Film & Interactive)",
+    "guideUrl": "https://concerto-concessions.netlify.app/sxswmusicfilminteractive"
   },
   "cma_fest": {
     "updated": "",
@@ -4351,7 +4678,8 @@
     "officialConcessionsUrl": "https://www.visitmusiccity.com/nashville-events/cma-fest/eat",
     "city": "Nashville",
     "state": "TN",
-    "venueName": "CMA Fest"
+    "venueName": "CMA Fest",
+    "guideUrl": "https://concerto-concessions.netlify.app/cmafest"
   },
   "made_in_america": {
     "updated": "",
@@ -4363,7 +4691,8 @@
     "officialConcessionsUrl": "https://constitutioncenter.org/museum/visit/delegates-cafe",
     "city": "Philadelphia",
     "state": "PA",
-    "venueName": "Made in America"
+    "venueName": "Made in America",
+    "guideUrl": "https://concerto-concessions.netlify.app/madeinamerica"
   },
   "radio_city_music_hall": {
     "updated": "",
@@ -4372,21 +4701,22 @@
     "officialConcessionsUrl": "https://www.msg.com/madison-square-garden/food-drink",
     "city": "New York",
     "state": "NY",
-    "venueName": "Radio City Music Hall"
+    "venueName": "Radio City Music Hall",
+    "guideUrl": "https://concerto-concessions.netlify.app/radiocitymusichall"
   },
   "the_gorge_amphitheatre": {
     "updated": "",
-    "note": "The Gorge Amphitheatre offers a variety of food and drink options, including Mosh Burger's hormone-free beef burgers, Rebel Hen's crispy chicken tenders, and Ziggy's Magic Pizza Shop's NY-inspired pizzas. Koko's Bavarian provides German-inspired sausages and pretzels, while general concessions offer popcorn, nachos, and a selection of beverages. CVT Premium Soft Serve Ice Cream is available in convenient pouches.",
+    "note": "Only small clutches, wristlets, or fanny packs no bigger than 6\" x 9\" and clear plastic bags no bigger than 12\" x 12\" x 6\" are allowed. All bags are subject to search upon entry.",
     "stands": [
-      "Mosh Burger",
-      "Rebel Hen",
-      "Ziggy's Magic Pizza Shop",
-      "Koko's",
-      "CVT Premium Soft Serve Ice Cream"
+      "small clutches",
+      "wristlets",
+      "fanny packs no bigger than 6\" x 9\"",
+      "clear plastic bags no bigger than 12\" x 12\" x 6\""
     ],
-    "officialConcessionsUrl": "https://www.gorgeamphitheatre.com/bites",
+    "officialConcessionsUrl": "https://www.gorgeamphitheatre.com/know-before-you-go",
     "city": "George",
     "state": "WA",
-    "venueName": "The Gorge Amphitheatre"
+    "venueName": "The Gorge Amphitheatre",
+    "guideUrl": "https://concerto-concessions.netlify.app/thegorgeamphitheatre"
   }
 }
